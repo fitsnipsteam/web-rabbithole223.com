@@ -1,0 +1,13 @@
+version: 1
+frontend:
+  phases:
+    build:
+      commands: 
+        - "echo HOGO_ENV: $HOGO_ENV"
+        - "hugo --environment $HOGO_ENV"
+  artifacts:
+    baseDirectory: /public
+    files:
+      - '**/*'
+  cache:
+    paths: []

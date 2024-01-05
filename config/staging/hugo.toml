@@ -1,0 +1,3 @@
+# set staging env vars here
+baseurl = "https://staging.rabbithole223.amplifyapp.com/"
+title = "Rabbithole223 Staging"
