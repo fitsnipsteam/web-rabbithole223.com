@@ -2,11 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Rabbit Hole 223</title>
-    <link>https://rabbithole223.com/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Rabbit Hole 223</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <managingEditor>spam@rabbithole223.com (RH223)</managingEditor>
-    <webMaster>spam@rabbithole223.com (RH223)</webMaster><atom:link href="https://rabbithole223.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

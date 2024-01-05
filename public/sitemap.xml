@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rabbithole223.com/tags/getting-started/</loc>
+    <loc>/page/about/</loc>
     <lastmod>2024-01-04T19:04:39-05:00</lastmod>
   </url><url>
-    <loc>https://rabbithole223.com/tags/mushrooms/</loc>
+    <loc>/tags/getting-started/</loc>
     <lastmod>2024-01-04T19:04:39-05:00</lastmod>
   </url><url>
-    <loc>https://rabbithole223.com/page/</loc>
+    <loc>/tags/mushrooms/</loc>
     <lastmod>2024-01-04T19:04:39-05:00</lastmod>
   </url><url>
-    <loc>https://rabbithole223.com/post/</loc>
+    <loc>/page/</loc>
     <lastmod>2024-01-04T19:04:39-05:00</lastmod>
   </url><url>
-    <loc>https://rabbithole223.com/post/projects/</loc>
+    <loc>/post/</loc>
     <lastmod>2024-01-04T19:04:39-05:00</lastmod>
   </url><url>
-    <loc>https://rabbithole223.com/tags/</loc>
+    <loc>/post/projects/</loc>
     <lastmod>2024-01-04T19:04:39-05:00</lastmod>
   </url><url>
-    <loc>https://rabbithole223.com/</loc>
+    <loc>/tags/</loc>
     <lastmod>2024-01-04T19:04:39-05:00</lastmod>
   </url><url>
-    <loc>https://rabbithole223.com/page/about/</loc>
+    <loc>/</loc>
     <lastmod>2024-01-04T19:04:39-05:00</lastmod>
   </url><url>
-    <loc>https://rabbithole223.com/categories/</loc>
+    <loc>/categories/</loc>
   </url>
 </urlset>
