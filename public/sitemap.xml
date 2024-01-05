@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rabbithole223.com/</loc>
-    <lastmod>2024-01-04T19:04:39-05:00</lastmod>
-  </url><url>
     <loc>https://rabbithole223.com/tags/getting-started/</loc>
     <lastmod>2024-01-04T19:04:39-05:00</lastmod>
   </url><url>
@@ -21,6 +18,9 @@
     <lastmod>2024-01-04T19:04:39-05:00</lastmod>
   </url><url>
     <loc>https://rabbithole223.com/tags/</loc>
+    <lastmod>2024-01-04T19:04:39-05:00</lastmod>
+  </url><url>
+    <loc>https://rabbithole223.com/</loc>
     <lastmod>2024-01-04T19:04:39-05:00</lastmod>
   </url><url>
     <loc>https://rabbithole223.com/page/about/</loc>

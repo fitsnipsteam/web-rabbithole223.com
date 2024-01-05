@@ -12,7 +12,7 @@ The git repo lives at https://github.com/rabbithole223/web-rabbithole223.com and
 
 AWS applify link
 
-https://us-east-1.console.aws.amazon.com/amplify/home?region=us-east-1#/rabbithole223
+https://us-east-1.console.aws.amazon.com/amplify/home?region=us-east-1#/d1odx3yxd5kea7
 
 AWS account_id 427662681066, username in 1password is joshua.miller+aws@fitsnips.net
 

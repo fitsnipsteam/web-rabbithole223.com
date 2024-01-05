@@ -3,8 +3,8 @@ frontend:
   phases:
     build:
       commands: 
-        - "echo HOGO_ENV: $HOGO_ENV"
-        - "hugo --environment $HOGO_ENV"
+        - "echo HUGO_ENV: $HUGO_ENV"
+        - "hugo --environment $HUGO_ENV"
   artifacts:
     baseDirectory: /public
     files:

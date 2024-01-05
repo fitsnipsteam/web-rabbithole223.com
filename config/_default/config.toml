@@ -12,8 +12,8 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 
 [Params]
-#  homeTitle = "Knowledge Through Experimentation" # Set a different text for the header on the home page
-  subtitle = "Knowledge Through Experimentation"
+#  homeTitle = "Knowledge Through Errors" # Set a different text for the header on the home page
+  subtitle = "Knowledge by Errors"
   mainSections = ["post","posts"]
   logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
@@ -35,7 +35,7 @@ pygmentsCodefencesGuessSyntax = true
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
   name = "RH223"
-  website = "https://rabbithole223.com/"
+  website = "https://www.rabbithole223.com/"
   email = "spam@rabbithole223.com"
   github = "rabbithole223"
   twitter = "rabbithole223"
