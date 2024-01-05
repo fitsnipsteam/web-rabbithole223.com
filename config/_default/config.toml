@@ -1,7 +1,7 @@
 baseurl = "https://rabbithole223.com/"
 DefaultContentLanguage = "en"
 title = "Rabbit Hole 223"
-theme = "beautifulhugo"
+theme = "mainroad"
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
 pygmentsCodeFences = true
