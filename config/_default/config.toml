@@ -16,8 +16,8 @@ theme = "mainroad"
   avatar = "img/avatar.png"
 
 [Params]
-  description = "John Doe's Personal blog about everything" # Site description. Used in meta description
-  copyright = "John Doe" # Footer copyright holder, otherwise will use site title
+  description = "Knowledge by Errors" # Site description. Used in meta description
+  copyright = "Rabithole223" # Footer copyright holder, otherwise will use site title
   opengraph = true # Enable OpenGraph if true
   schema = true # Enable Schema
   twitter_cards = true # Enable Twitter Cards if true
@@ -49,9 +49,9 @@ theme = "mainroad"
   fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
 
 [Params.logo]
-  image = "img/placeholder.png" # Logo image. Path relative to "static"
-  title = "Mainroad" # Logo title, otherwise will use site title
-  subtitle = "Just another site" # Logo subtitle
+  image = "img/rabbithole223.jpg" # Logo image. Path relative to "static"
+  title = "Rabbit Hole 223" # Logo title, otherwise will use site title
+  subtitle = "Knowledge by Errors" # Logo subtitle
 
 [Params.thumbnail]
   visibility = ["list", "post"] # Control thumbnail visibility
@@ -71,26 +71,26 @@ theme = "mainroad"
 [Params.widgets.social]
   cached = false # activate cache if true
   # Enable parts of social widget
-  facebook = "username"
-  twitter = "username"
-  instagram = "username"
-  linkedin = "username"
-  telegram = "username"
-  github = "username"
-  gitlab = "username"
-  bitbucket = "username"
-  email = "example@example.com"
+  #facebook = "username"
+  #twitter = "username"
+  #instagram = "username"
+  #linkedin = "username"
+  #telegram = "username"
+  #github = "username"
+  #gitlab = "username"
+  #bitbucket = "username"
+  email = "spam@rabbithole223.com"
 
 # Custom social links
 [[Params.widgets.social.custom]]
   title = "Youtube"
-  url = "https://youtube.com/user/username"
-  icon = "youtube.svg" # Optional. Path relative to "layouts/partials"
+  url = "https://www.youtube.com/@rabbithole2237"
+  #icon = "youtube.svg" # Optional. Path relative to "layouts/partials"
   rel = "noopener noreferrer" # Set to false to remove the rel attribute
 
 [[Params.widgets.social.custom]]
-  title = "My Home Page"
-  url = "https://example.com"
+  title = "Rabbit Hole 223"
+  url = "https://rabbithole223.com"
 
 [Params.widgets.search]
   cached = false # activate cache if true
