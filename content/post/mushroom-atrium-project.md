@@ -1,7 +1,7 @@
 ---
 title: "Mushroom Atrium Project"
+subtitle: "As seen on youtube"
 date: 2024-01-05T22:57:38-06:00
-draft: false
 tags: ["mushrooms", "getting started"]
 ---
 
