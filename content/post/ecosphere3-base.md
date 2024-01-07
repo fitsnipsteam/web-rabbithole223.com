@@ -1,7 +1,7 @@
 ---
 title: "A Comprehensive Review of the Midwest Grow Kits Mushroom Ecosphere 3.0"
 date: 2024-01-07T00:00:00Z
-tags: ["mushrooms", "getting started", "midwestgrowkits.com"]
+tags: ["mushrooms", "getting started", "midwestgrowkits.com", "reviews"]
 ---
 
 ## Introduction
