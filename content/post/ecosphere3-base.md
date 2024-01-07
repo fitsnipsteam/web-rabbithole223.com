@@ -47,7 +47,7 @@ The rest of the list:
 | Digital Heat Mat Thermostat Controller               | [Link](https://www.amazon.com/gp/product/B01I15S6OM) | $18.99  |
 | Humidity Switch Socket                                | [Link](https://www.amazon.com/gp/product/B08YFDZXCG) | $22.47  |
 | Pure Garden 4-Tier Greenhouse                         | [Link](https://www.amazon.com/gp/product/B01MR9C215) | $34.99  |
-| 2-Pack 200W Reptile Ceramic Heat Lamp                | [Link] https://a.co/d/7dYnLk7 | 14.99 |
+| 2-Pack 200W Reptile Ceramic Heat Lamp                | [Link](https://a.co/d/7dYnLk7)| 14.99 |
 
 ## Total Cost
 
