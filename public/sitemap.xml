@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/post/ecosphere3-base/</loc>
+    <lastmod>2024-01-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/getting-started/</loc>
+    <lastmod>2024-01-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/midwestgrowkits.com/</loc>
+    <lastmod>2024-01-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/mushrooms/</loc>
+    <lastmod>2024-01-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2024-01-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-01-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/atrium/</loc>
+    <lastmod>2024-01-05T22:57:38-06:00</lastmod>
+  </url><url>
+    <loc>/tags/diy/</loc>
     <lastmod>2024-01-05T22:57:38-06:00</lastmod>
   </url><url>
     <loc>/post/mushroom-atrium-project/</loc>
-    <lastmod>2024-01-05T22:57:38-06:00</lastmod>
-  </url><url>
-    <loc>/tags/mushrooms/</loc>
-    <lastmod>2024-01-05T22:57:38-06:00</lastmod>
-  </url><url>
-    <loc>/post/</loc>
-    <lastmod>2024-01-05T22:57:38-06:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2024-01-05T22:57:38-06:00</lastmod>
   </url><url>
     <loc>/page/about/</loc>
