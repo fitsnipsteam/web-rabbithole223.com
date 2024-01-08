@@ -89,12 +89,12 @@ theme = "mainroad"
   rel = "noopener noreferrer" # Set to false to remove the rel attribute
 
 [[Params.widgets.social.custom]]
-#  title = "Rabbit Hole 223"
-#  url = "https://rabbithole223.com"
+  title = "Rabbit Hole 223 Linktree"
+  url = "https://linktr.ee/rabbithole223"
+
 
 [Params.widgets.search]
-  cached = false # activate cache if true
-  url = "https://google.com/search"
+  url = "https://duckduckgo.com/"
   [Params.widgets.search.input]
-    name = "sitesearch"
+    name = "sites"
     pre = ""
