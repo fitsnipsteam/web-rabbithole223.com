@@ -5,7 +5,7 @@ draft: false
 tags: ["tools", "getting started", "midwestgrowkits.com"]
 ---
 
-![JD-L08](https://static.rabbithole223.com/images/uvc-jd-l08-05.png)
+![JD-L08](https://static.rabbithole223.com/images/512-uvc-jd-l08-05.png)
 
 ## WARNING: While UV-C light offers a non-chemical, no-touch sterilization method, its use requires careful handling:
 
