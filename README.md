@@ -93,3 +93,11 @@ titlecasestyle = 'AP'
         title = true
   subtitle = 'Knowledge Through Experimentation'
 ```
+
+
+Images can be pushed to s3://static-origin.rabbithole223.com/images/ and be used in a post using the cloudfront url
+
+```
+![Hydroponic Humidifier System](https://static.rabbithole223.com/images/mwgk-humi-hydro01.jpeg)
+
+```
