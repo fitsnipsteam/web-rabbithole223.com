@@ -72,19 +72,19 @@ theme = "mainroad"
   cached = false # activate cache if true
   # Enable parts of social widget
   #facebook = "username"
-  #twitter = "username"
+  twitter = "rabbihole223"
   #instagram = "username"
   #linkedin = "username"
   #telegram = "username"
   #github = "username"
   #gitlab = "username"
   #bitbucket = "username"
-  email = "spam@rabbithole223.com"
+  # email = "spam@rabbithole223.com"
 
 # Custom social links
 [[Params.widgets.social.custom]]
   title = "RH223 Youtube"
-  url = "https://www.youtube.com/@rabbithole2237"
+  url = "https://www.youtube.com/@therabbithole223"
   #icon = "youtube.svg" # Optional. Path relative to "layouts/partials"
   rel = "noopener noreferrer" # Set to false to remove the rel attribute
 
