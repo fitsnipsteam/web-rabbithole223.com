@@ -30,4 +30,3 @@ As you embark on this mycological journey with us, prepare to be amazed by the w
 Welcome to the captivating world of mycology!
 
 
-<meta name='impact-site-verification' value='6b130500-13e4-4f52-ad5e-380ff69b3b83'>
