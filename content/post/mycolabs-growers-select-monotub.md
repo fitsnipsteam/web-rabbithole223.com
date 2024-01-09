@@ -22,7 +22,7 @@ The 48-quart is much larger than I need for learning. Once I get better, it migh
 
 The bottom pan is very deep at 5.5 inches, and then the lowest holes are 1.5 inches above that. This seems too deep to me, and I wonder if reducing the depth of the bottom pan might be advantageous. I would also like them to sell a spawning lid to go along with a fruiting lid. I am looking at growing some Pioppino (Cyclocybe aegerita) mushrooms and think it would be nice to have a spawning lid.
 
-I also am choosing to use polyfill as it's easy to remove rather than the sticker filters that came with the monotub to allow options in the future.
+I also am choosing to use polyfil as it's easy to remove rather than the sticker filters that came with the monotub to allow options in the future.
 
 ## Summary
 

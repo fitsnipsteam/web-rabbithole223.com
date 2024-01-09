@@ -19,11 +19,11 @@ To restate my orginal expections, With the system running on a schedule of 1 hou
 
 # Real-World Experience Part 2
 
-Implementing a schedule of 1 hour on and 5 hours off, I initially sought a mild improvement in humidity levels. However, a closer examination of my cultivation environment led me to experiment further. Incorporating polyfill to address air exchange issues and sealing open holes in the [Myco Labs Grower's Select Mushroom Monotub Fruiting Chamber](https://www.amazon.com/gp/product/B0CJ71W7X2), the results were impressive. With the Hydroponic Humidifier, maintaining a 95% humidity rate became a reality. Now, the task at hand is fine-tuning the schedule for optimal performance.
+Implementing a schedule of 1 hour on and 5 hours off, I initially sought a mild improvement in humidity levels. However, a closer examination of my cultivation environment led me to experiment further. Incorporating polyfil to address air exchange issues and sealing open holes in the [Myco Labs Grower's Select Mushroom Monotub Fruiting Chamber](https://www.amazon.com/gp/product/B0CJ71W7X2), the results were impressive. With the Hydroponic Humidifier, maintaining a 95% humidity rate became a reality. Now, the task at hand is fine-tuning the schedule for optimal performance.
 
 # Challenges Encountered
 
-A obstacle encountered during my experimentation was the issue of excess airflow. This concern was effectively mitigated by filling open holes of the monotub with polyfill. Once this adjustment was made, the Hydroponic Humidifier seamlessly increased humidity to the desired levels. This experience emphasizes the critical role of comprehending airflow nuances in the cultivation process, and a lot of trial and
+A obstacle encountered during my experimentation was the issue of excess airflow. This concern was effectively mitigated by filling open holes of the monotub with polyfil. Once this adjustment was made, the Hydroponic Humidifier seamlessly increased humidity to the desired levels. This experience emphasizes the critical role of comprehending airflow nuances in the cultivation process, and a lot of trial and
 
 
 # Conclusion
