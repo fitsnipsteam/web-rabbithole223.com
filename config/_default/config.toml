@@ -96,5 +96,5 @@ theme = "mainroad"
 [Params.widgets.search]
   url = "https://duckduckgo.com/"
   [Params.widgets.search.input]
-    name = "sites"
+    name = "www.rabbithole223.com"
     pre = ""

@@ -28,3 +28,6 @@ Whether you are an aspiring mycologist, a curious nature enthusiast, or someone 
 As you embark on this mycological journey with us, prepare to be amazed by the wonders of fungi. Together, let's unravel the secrets of this hidden kingdom and appreciate the profound impact fungi have on the world around us.
 
 Welcome to the captivating world of mycology!
+
+
+<meta name='impact-site-verification' value='6b130500-13e4-4f52-ad5e-380ff69b3b83'>
