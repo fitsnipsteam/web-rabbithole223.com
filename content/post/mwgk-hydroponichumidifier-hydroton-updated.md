@@ -10,7 +10,7 @@ tags: ["mushrooms", "getting started", "midwestgrowkits.com", "reviews", "update
 
 # Introduction
 
-OK on my first run with the Hydroponic humidifier I didnt have a lot of luck. As expected it was moslty user error. I am not going to cover the product details here again but you can ready my orginal review [CLICK HERE](https://www.rabbithole223.com/post/mwgk-hydroponichumidifier-hydroton/) and get all that fun info.
+OK on my first run with the [Hydroponic humidifier](https://www.midwestgrowkits.com/-Hydroponic-Humidifier-System-with-HEPA-Air-Hoses) I didnt have a lot of luck. As expected it was moslty user error. I am not going to cover the product details here again but you can ready my orginal review [CLICK HERE](https://www.rabbithole223.com/post/mwgk-hydroponichumidifier-hydroton/) and get all that fun info.
 
 
 # Initial Expectations

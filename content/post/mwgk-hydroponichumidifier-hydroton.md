@@ -9,7 +9,7 @@ tags: ["mushrooms", "getting started", "midwestgrowkits.com", "reviews"]
 
 # Introduction
 
-As an mushroom cultivator, I recently invested in a Hydroponic Humidifier System designed explicitly for maintaining optimal humidity levels during the growth process. Excited about the potential improvements in my monotub cultivation, I aimed to cotrol the humidity control for a more efficient and productive mushroom-growing environment for my Lions Mane mushroom kit from North Spore.
+As an mushroom cultivator, I recently invested in a [Hydroponic Humidifier System](https://www.midwestgrowkits.com/-Hydroponic-Humidifier-System-with-HEPA-Air-Hoses) designed explicitly for maintaining optimal humidity levels during the growth process. Excited about the potential improvements in my monotub cultivation, I aimed to cotrol the humidity control for a more efficient and productive mushroom-growing environment for my Lions Mane mushroom kit from North Spore.
 
 # Product Details
 
