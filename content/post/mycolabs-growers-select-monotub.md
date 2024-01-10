@@ -2,6 +2,7 @@
 title: "Myco Labs Grower's Select Mushroom 48-Quart Monotub Fruiting Chamber with Filter Disks and Liner"
 date: 2024-01-08
 tags: ["mushrooms", "getting started", "Amazon", "reviews"]
+categories: [ "Reviews" ]
 ---
 
 ## Introduction

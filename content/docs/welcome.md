@@ -2,7 +2,13 @@
 title: Welcome
 subtitle: Welcome to the Fascinating World of Mycology - Unveiling the Wonders of Fungi
 date: 2024-01-04T19:04:39-05:00
-draft: false
+authorbox: false
+sidebar: false
+pager: false
+weight: 1
+menu:
+  main:
+    name: Welcome
 comments: false
 ---
 

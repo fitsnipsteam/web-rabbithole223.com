@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on Rabbit Hole 223</title>
+    <link>/docs/</link>
+    <description>Recent content in Docs on Rabbit Hole 223</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Jan 2024 12:00:00 +0000</lastBuildDate><atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome</title>
+      <link>/docs/welcome/</link>
+      <pubDate>Thu, 04 Jan 2024 19:04:39 -0500</pubDate>
+      
+      <guid>/docs/welcome/</guid>
+      <description>Dear Readers,
+Embark on a journey into the enchanting realm of mycology, a scientific discipline that unveils the mysteries of fungi, Earth&amp;rsquo;s often overlooked, yet profoundly influential organisms. As we extend a warm welcome to you, we invite you to explore the captivating world of mushrooms, molds, yeasts, and their intricate interactions with the ecosystems they inhabit.
+Discover the Hidden Kingdom: Fungi constitute their own kingdom, separate from plants and animals, showcasing a diversity that is both astonishing and essential to life on our planet.</description>
+    </item>
+    
+    <item>
+      <title>Frequently asked questions (FAQ)</title>
+      <link>/docs/faq/</link>
+      <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+      
+      <guid>/docs/faq/</guid>
+      <description>General Questions Are you being paid by any of the companies that you have reviewed products for No, as of 2024-01-11 I have not been paid one penny and I have purchased all my products. If that every changes I will be sure to state that in future reviews.
+Why do you use Midwest Grow Kits so much Is actually a matter of them accepting bitcoin at this time. Sadly North Spores crypto payments seem to be offline as of Jan 08, 2024 so its harder for me to justify using them.</description>
+    </item>
+    
+  </channel>
+</rss>
