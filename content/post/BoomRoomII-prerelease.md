@@ -2,7 +2,7 @@
 title: "Unveiling the BoomRoom II: A Sneak Peek into Northspore's Automated Martha Tent Mushroom Grow Kit"
 date: 2024-01-07T12:00:00Z
 tags: ["mushrooms", "getting started", "northspore", "reviews"]
-
+categories: [ "Reviews" ]
 ---
 
 # Introduction

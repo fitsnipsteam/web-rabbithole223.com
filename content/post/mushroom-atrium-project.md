@@ -3,6 +3,8 @@ title: "Mushroom Atrium Project"
 subtitle: "As seen on youtube"
 date: 2024-01-05T22:57:38-06:00
 tags: ["mushrooms", "getting started", "diy", "atrium"]
+categories: [ "Projects" ]
+
 ---
 
 
