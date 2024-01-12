@@ -12,6 +12,7 @@ tags: [ "substrate", "mushroom cultivation", "organic gardening"]
 
 The Coir-Vermiculite-Gypsum (CVG) mixture is a cornerstone in the art of mushroom cultivation, celebrated for its remarkable ability to retain moisture and provide a nutrient-rich foundation. This guide delineates the process of creating a CVG substrate, integrating specific ingredients and measurements to yield optimal results.
 
+
 ## Essential Ingredients and Their Costs
 
 Given the competitive pricing on Amazon, and considering the benefits of Prime membership, such as inclusive shipping, the following are the costs for the required materials:
@@ -99,7 +100,9 @@ Post-preparation and cooling of the CVG mix, the next phase involves inoculating
 The creation of a CVG mix is a critical step in establishing a nurturing environment for mushroom cultivation. Attention to cleanliness is imperative to prevent contamination. Embark on this journey of mushroom cultivation with confidence and anticipation of a rewarding harvest.
 
 
-![rh223-cvg-04](https://static.rabbithole223.com/images/2024/512-rh223-cvg-04.jpg?width=25)
+This recipe produces enought to fill 4 to 6 of the 6 quart shoe boxes. 
+
+![rh223-cvg-05](https://static.rabbithole223.com/images/2024/rh223-cvg-05.jpg)
 
 
 ## Shout outs
