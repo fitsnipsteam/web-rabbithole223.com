@@ -19,7 +19,7 @@ Given the competitive pricing on Amazon, and considering the benefits of Prime m
 - **Organic Coconut Coir Brick (650 Gram):** $9.99
 - **Ultra-Fine Food Grade Gypsum for Mushroom Substrates (2 cups):** $13.95
 - **Professional Grade 8QT Vermiculite:** $16.29
-- **2.0 Gallon Pail with Plastic Handle, White:** $15.00
+- **.0 Gallon Pail with Plastic Handle, White:** $15.00 (use a 5 gallon you will be happier)
 
 Batch Cost Aprox: $25.00 not counting the reusable bucket. You can lower the cost by buying in in bulk but I do not suggest it if this is your first time. 
 
@@ -53,6 +53,8 @@ Batch Cost Aprox: $25.00 not counting the reusable bucket. You can lower the cos
 Ensuring an ideal moisture level within your substrate is paramount for successful mushroom cultivation. Field capacity represents this optimal moisture state. Below are the methodologies to ascertain that your substrate has attained field capacity.
 
 #### Techniques to Validate Field Capacity
+
+I did have to add 1 more cup of water as a FYI
 
 ##### Squeeze Test
 
@@ -95,6 +97,9 @@ Post-preparation and cooling of the CVG mix, the next phase involves inoculating
 ## Conclusion
 
 The creation of a CVG mix is a critical step in establishing a nurturing environment for mushroom cultivation. Attention to cleanliness is imperative to prevent contamination. Embark on this journey of mushroom cultivation with confidence and anticipation of a rewarding harvest.
+
+
+![rh223-cvg-04](https://static.rabbithole223.com/images/2024/512-rh223-cvg-04.jpg?width=25)
 
 
 ## Shout outs
