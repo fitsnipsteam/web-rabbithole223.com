@@ -13,7 +13,7 @@ theme = "mainroad"
 [Author] # Used in authorbox
   name = "RH223"
   bio = "RH233's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
-  avatar = "img/avatar.png"
+  avatar = "static/rh223-logo-single-stamped.png"
 
 [Params]
   description = "Knowledge by Errors" # Site description. Used in meta description
@@ -45,7 +45,7 @@ theme = "mainroad"
   fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
 
 [Params.logo]
-  image = "img/rh223-logo-single-stamped.png" # Logo image. Path relative to "static"
+  image = "img/256-rh223-logo-ai01.png" # Logo image. Path relative to "static"
   title = "Rabbit Hole 223" # Logo title, otherwise will use site title
   subtitle = "Knowledge by Errors" # Logo subtitle
 
