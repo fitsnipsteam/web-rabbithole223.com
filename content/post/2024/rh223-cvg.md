@@ -12,6 +12,7 @@ tags: [ "substrate", "mushroom cultivation", "organic gardening"]
 
 The Coir-Vermiculite-Gypsum (CVG) mixture is a cornerstone in the art of mushroom cultivation, celebrated for its remarkable ability to retain moisture and provide a nutrient-rich foundation. This guide delineates the process of creating a CVG substrate, integrating specific ingredients and measurements to yield optimal results.
 
+
 ## Essential Ingredients and Their Costs
 
 Given the competitive pricing on Amazon, and considering the benefits of Prime membership, such as inclusive shipping, the following are the costs for the required materials:
@@ -19,7 +20,7 @@ Given the competitive pricing on Amazon, and considering the benefits of Prime m
 - **Organic Coconut Coir Brick (650 Gram):** $9.99
 - **Ultra-Fine Food Grade Gypsum for Mushroom Substrates (2 cups):** $13.95
 - **Professional Grade 8QT Vermiculite:** $16.29
-- **2.0 Gallon Pail with Plastic Handle, White:** $15.00
+- **.0 Gallon Pail with Plastic Handle, White:** $15.00 (use a 5 gallon you will be happier)
 
 Batch Cost Aprox: $25.00 not counting the reusable bucket. You can lower the cost by buying in in bulk but I do not suggest it if this is your first time. 
 
@@ -53,6 +54,8 @@ Batch Cost Aprox: $25.00 not counting the reusable bucket. You can lower the cos
 Ensuring an ideal moisture level within your substrate is paramount for successful mushroom cultivation. Field capacity represents this optimal moisture state. Below are the methodologies to ascertain that your substrate has attained field capacity.
 
 #### Techniques to Validate Field Capacity
+
+I did have to add 1 more cup of water as a FYI
 
 ##### Squeeze Test
 
@@ -95,6 +98,11 @@ Post-preparation and cooling of the CVG mix, the next phase involves inoculating
 ## Conclusion
 
 The creation of a CVG mix is a critical step in establishing a nurturing environment for mushroom cultivation. Attention to cleanliness is imperative to prevent contamination. Embark on this journey of mushroom cultivation with confidence and anticipation of a rewarding harvest.
+
+
+This recipe produces enought to fill 4 to 6 of the 6 quart shoe boxes. 
+
+![rh223-cvg-05](https://static.rabbithole223.com/images/2024/rh223-cvg-05.jpg)
 
 
 ## Shout outs
