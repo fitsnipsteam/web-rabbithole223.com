@@ -35,10 +35,6 @@ theme = "mainroad"
   customCSS = ["css/custom.css"] # Include custom CSS files
   customJS = ["js/custom.js"] # Include custom JS files
 
-  # DEPRECATED PARAMS
-  subtitle = "" # Deprecated in favor of .Site.Params.logo.subtitle
-  highlightColor = "" # Deprecated in favor of .Site.Params.style.vars.highlightColor
-
 [Params.style.vars]
   highlightColor = "#e22d30" # Override highlight color
 
@@ -49,7 +45,7 @@ theme = "mainroad"
   fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
 
 [Params.logo]
-  image = "img/rabbithole223.jpg" # Logo image. Path relative to "static"
+  image = "img/rh223-logo-single-stamped.png" # Logo image. Path relative to "static"
   title = "Rabbit Hole 223" # Logo title, otherwise will use site title
   subtitle = "Knowledge by Errors" # Logo subtitle
 
