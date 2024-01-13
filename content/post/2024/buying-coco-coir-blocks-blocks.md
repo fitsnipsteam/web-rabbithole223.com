@@ -4,6 +4,8 @@ date: 2024-01-10
 draft: false
 catagories: [ "Shopping" ]
 tags: [ "substrate", "midwestgrowkits", "amazon"]
+thumbnail: https://static.rabbithole223.com/images/2024/512-cococoair-01.jpg
+
 ---
 
 # Coco Coir Substrate for Mushroom Cultivation: An In-Depth Price Comparison
