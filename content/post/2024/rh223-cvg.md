@@ -1,5 +1,6 @@
 ---
 title: "Crafting a CVG Substrate for Mushroom Cultivation"
+description: "Crafting a CVG Substrate for Mushroom Cultivation"
 date: 2024-01-11
 draft: false
 categories: [ "DIY" ]

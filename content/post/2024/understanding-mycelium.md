@@ -1,5 +1,6 @@
 ---
 title: "Understanding Mycelium: The Hidden Power Beneath Our Feet"
+description: "Understanding Mycelium: The Hidden Power Beneath Our Feet"
 date: 2024-01-12
 draft: false
 categories: [ "Education" ]
