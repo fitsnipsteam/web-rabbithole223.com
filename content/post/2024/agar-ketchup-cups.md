@@ -1,5 +1,6 @@
 ---
 title: "Make Agar Agar cups for Amateur Mycologists: A Step-by-Step Guide"
+description: "Make Agar Agar cups for Amateur Mycologists: A Step-by-Step Guide"
 date: 2024-01-17
 draft: false
 categories: ["DIY"]
