@@ -13,7 +13,7 @@ theme = "mainroad"
 [Author] # Used in authorbox
   name = "RH223"
   bio = "RH233's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
-  avatar = "rh223-logo-single-stamped.png"
+  avatar = "static/img/rh223-logo-single-stamped.png"
 
 [Params]
   description = "Knowledge by Errors" # Site description. Used in meta description
