@@ -2,11 +2,11 @@
 title: "Review of Lion's Mane Mushroom Growing Kit from North Spore"
 date: 2024-01-09T14:00:00Z
 draft: false
+thumbnail: https://static.rabbithole223.com/images/2024/512-northspore-lionsmane1.jpeg
 tags: ["tools", "getting started", "northspore", "lions mane", "mushrooms"]
 categories: [ "Reviews" ]
 ---
 
-![Lions Mane](https://static.rabbithole223.com/images/2024/512-northspore-lionsmane1.jpeg)
 
 ## Introduction
 

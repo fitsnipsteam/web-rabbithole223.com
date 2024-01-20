@@ -1,11 +1,10 @@
 ---
 title: "Hydroponic Humidifier System Review: A Cultivator's Perspective"
 date: 2024-01-07T02:57:38-06:00
+thumbnail: https://static.rabbithole223.com/images/mwgk-humi-hydro01.jpeg
 tags: ["mushrooms", "getting started", "midwestgrowkits", "reviews"]
 categories: [ "Reviews" ]
 ---
-
-![Hydroponic Humidifier System](https://static.rabbithole223.com/images/mwgk-humi-hydro01.jpeg)
 
 
 # Introduction

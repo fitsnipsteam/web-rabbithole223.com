@@ -2,11 +2,10 @@
 title: "Harnessing the Power of UV-C Light in Amateur Mycology"
 date: 2024-01-09T12:00:00Z
 draft: false
+thumbnail: https://static.rabbithole223.com/images/512-uvc-jd-l08-05.png
 tags: ["tools", "getting started", "midwestgrowkits"]
 categories: [ "Reviews" ]
 ---
-
-![JD-L08](https://static.rabbithole223.com/images/512-uvc-jd-l08-05.png)
 
 ## WARNING: While UV-C light offers a non-chemical, no-touch sterilization method, its use requires careful handling:
 
