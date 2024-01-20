@@ -9,6 +9,8 @@ tags: ["mushroom cultivation", "diy"]
 ---
 
 
+{{< youtube F0z-LwC_qNo >}}
+
 
 ## Introduction
 

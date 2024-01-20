@@ -2,7 +2,7 @@
 title: "Harnessing the Power of UV-C Light in Amateur Mycology"
 date: 2024-01-09T12:00:00Z
 draft: false
-tags: ["tools", "getting started", "midwestgrowkits.com"]
+tags: ["tools", "getting started", "midwestgrowkits"]
 categories: [ "Reviews" ]
 ---
 

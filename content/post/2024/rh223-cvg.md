@@ -8,6 +8,7 @@ thumbnail: https://static.rabbithole223.com/images/2024/512-rh223-cvg-01.jpg
 tags: [ "substrate", "mushroom cultivation", "organic gardening"]
 ---
 
+{{< youtube MPUW306ZoLg >}}
 
 # Crafting a CVG Substrate for Mushroom Cultivation
 
