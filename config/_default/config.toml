@@ -5,7 +5,6 @@ paginate = "10" # Number of posts per page
 theme = "mainroad"
 enableRobotsTXT = true
 
-
 [services.disqus]
   shortname = "" # Enable Disqus by entering your Disqus shortname
 [services.googleAnalytics]
@@ -14,7 +13,7 @@ enableRobotsTXT = true
 [Author] # Used in authorbox
   name = "RH223"
   bio = "RH233's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
-  avatar = "static/img/rh223-logo-single-stamped.png"
+  avatar = "https://static.rabbithole223.com/images/author-rh223.png"
 
 [Params]
   description = "Knowledge by Errors" # Site description. Used in meta description
@@ -89,6 +88,13 @@ enableRobotsTXT = true
   title = "Rabbit Hole 223 Linktree"
   url = "https://linktr.ee/rabbithole223"
 
+[[Params.widgets.social.custom]]
+  title = "Rumble Rabbit Hole 223"
+  url = "https://rumble.com/c/c-5592714"
+
+[[Params.widgets.social.custom]]
+  title = "RH223 Merch"
+  url = "https://rabbithole223.creator-spring.com"
 
 [Params.widgets.search]
   url = "https://duckduckgo.com/"
