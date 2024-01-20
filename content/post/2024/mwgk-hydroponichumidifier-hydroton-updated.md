@@ -1,7 +1,7 @@
 ---
 title: "UPDATED: Hydroponic Humidifier System Review: A Cultivator's Perspective"
 date: 2024-01-08
-tags: ["mushrooms", "getting started", "midwestgrowkits.com", "reviews", "updates"]
+tags: ["mushrooms", "getting started", "midwestgrowkits", "reviews", "updates"]
 categories: [ "Reviews" ]
 ---
 
