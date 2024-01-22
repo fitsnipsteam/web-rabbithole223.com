@@ -2,6 +2,7 @@
 title: Projects
 subtitle: What I am working on now
 date: 2024-01-04T19:04:39-05:00
+draft: true
 tags: ["mushrooms", "getting started", "midwestgrowkits"]
 categories: [ "Projects" ]
 
