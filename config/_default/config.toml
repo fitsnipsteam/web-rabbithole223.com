@@ -101,3 +101,9 @@ enableRobotsTXT = true
   [Params.widgets.search.input]
     name = "www.rabbithole223.com"
     pre = ""
+
+# to allow hugo embded content 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
