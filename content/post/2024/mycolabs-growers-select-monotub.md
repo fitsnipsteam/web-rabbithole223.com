@@ -7,11 +7,11 @@ categories: [ "Reviews" ]
 
 ## Introduction
 
-The [48-Quart Monotub](https://www.amazon.com/gp/product/B0CJ71W7X2) from Myco Labs was my first monotub. This kit is nice, but I do have a few concerns.
+The [48-Quart Monotub](https://amzn.to/3UmBLyY) from Myco Labs was my first monotub. This kit is nice, but I do have a few concerns.
 
 ## Ordering and Assembly
 
-Ordered from Amazon, and it arrived promptly as usual. When it arrived, I had a look and was faced with a decision: to put the plugs in or the filters over the holes. Since I was using a [North Spore Organic Lion's Mane Mushroom Spray & Grow Kit](https://www.amazon.com/gp/product/B076VLY2V4), which was already starting to fruit, and I just needed to control moisture levels, I chose to use half the plugs and leave the other holes open, considering that while fruiting, there is not as much risk of contamination.
+Ordered from Amazon, and it arrived promptly as usual. When it arrived, I had a look and was faced with a decision: to put the plugs in or the filters over the holes. Since I was using a [North Spore Organic Lion's Mane Mushroom Spray & Grow Kit](https://amzn.to/3Oo3zyU), which was already starting to fruit, and I just needed to control moisture levels, I chose to use half the plugs and leave the other holes open, considering that while fruiting, there is not as much risk of contamination.
 
 ## Challenges and Considerations
 
@@ -27,4 +27,10 @@ I also am choosing to use polyfil as it's easy to remove rather than the sticker
 
 ## Summary
 
-This is an okay design and may be useful once I get better at growing mushrooms. I do wish I would have gone with the smaller [Myco Labs Grower's Select 28Q Cube Mushroom Monotub Fruiting Chamber with Filter Disks and Liner](https://a.co/d/a7gEgxG) as that would be more manageable for a new and learning mushroom grower.
+This is an okay design and may be useful once I get better at growing mushrooms. I do wish I would have gone with the smaller [Myco Labs Grower's Select 28Q Cube Mushroom Monotub Fruiting Chamber with Filter Disks and Liner](https://amzn.to/3SDcTSf) as that would be more manageable for a new and learning mushroom grower.
+
+
+# Affilate info:
+Amazon Affiliate Disclaimer: "As an Amazon Associate, I earn from qualifying purchases. This video and description may contain affiliate links, which means that if you click on one of the product links, I’ll receive a small commission at no extra cost to you. This helps support the channel and allows us to continue to make videos like this. Thank you for the support! 
+
+No other affilate memberships at the time of this writting. 
