@@ -1,0 +1,4 @@
+[[main]]
+  name = "Magic Quadrant"
+  url = "/categories/magic-quadrant/"
+  weight = 10
