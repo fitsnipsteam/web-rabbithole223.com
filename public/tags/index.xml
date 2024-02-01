@@ -8,29 +8,29 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 31 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>diy</title>
-      <link>/tags/diy/</link>
+      <title>beginner guide</title>
+      <link>/tags/beginner-guide/</link>
       <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>/tags/diy/</guid>
+      <guid>/tags/beginner-guide/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>mushroom cultivation</title>
-      <link>/tags/mushroom-cultivation/</link>
+      <title>DIY mushroom growing</title>
+      <link>/tags/diy-mushroom-growing/</link>
       <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>/tags/mushroom-cultivation/</guid>
+      <guid>/tags/diy-mushroom-growing/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>newbie</title>
-      <link>/tags/newbie/</link>
+      <title>home mushroom cultivation</title>
+      <link>/tags/home-mushroom-cultivation/</link>
       <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>/tags/newbie/</guid>
+      <guid>/tags/home-mushroom-cultivation/</guid>
       <description></description>
     </item>
     
@@ -71,11 +71,29 @@
     </item>
     
     <item>
+      <title>mushroom cultivation</title>
+      <link>/tags/mushroom-cultivation/</link>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mushroom-cultivation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>psilocybin</title>
       <link>/tags/psilocybin/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>/tags/psilocybin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diy</title>
+      <link>/tags/diy/</link>
+      <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/diy/</guid>
       <description></description>
     </item>
     
