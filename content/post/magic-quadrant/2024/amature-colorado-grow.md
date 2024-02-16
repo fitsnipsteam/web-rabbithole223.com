@@ -32,7 +32,7 @@ Good luck grower, we look forward to hearing how it went.
 
 ## What we want back
 
-A few images every time you work on this mushroom project and one or two sentence about the process so far sent to us. Also reach out with questions, notes on the process, and any errors you might see in these instructions. 
+A few images every time you work on this mushroom project, along with one or two sentences about the process so far, should be sent to us. Also, reach out with questions, notes on the process, and any errors you might notice in these instructions.
 
 ## Cleanliness: 70 Percent Alcohol and Area Cleaning
 
