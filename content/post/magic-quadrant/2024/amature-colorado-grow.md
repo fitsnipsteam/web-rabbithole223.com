@@ -56,7 +56,7 @@ When the substrate is fully colonized and covered in white mycelium, introduce t
 
 ## Misting: The Bag, Not the Fruit
 
-Humidity is crucial for mushroom development. Every few days, or when it looks dry, mist the inside of the bag to maintain high humidity, but avoid directly spraying the developing mushrooms to prevent damage.
+Humidity is crucial for mushroom development. Every day, or when it looks dry, mist the inside of the bag to maintain high humidity, but avoid directly spraying the developing mushrooms to prevent damage. You also will need fan the sides to get fresh air in the bag, try for twice a day but once will work. If you notice its trying out to fast try folding over part of the open top and using a paper clip to hold part of it closes. 
 
 ## Veil Breaking and Harvest Time: Be Gentle, Pull from Block
 
