@@ -18,7 +18,7 @@ To restate my orginal expections, With the system running on a schedule of 1 hou
 
 # Real-World Experience Part 2
 
-Implementing a schedule of 1 hour on and 5 hours off, I initially sought a mild improvement in humidity levels. However, a closer examination of my cultivation environment led me to experiment further. Incorporating polyfil to address air exchange issues and sealing open holes in the [Myco Labs Grower's Select Mushroom Monotub Fruiting Chamber](https://www.amazon.com/gp/product/B0CJ71W7X2), the results were impressive. With the Hydroponic Humidifier, maintaining a 95% humidity rate became a reality. Now, the task at hand is fine-tuning the schedule for optimal performance.
+Implementing a schedule of 1 hour on and 5 hours off, I initially sought a mild improvement in humidity levels. However, a closer examination of my cultivation environment led me to experiment further. Incorporating polyfil to address air exchange issues and sealing open holes in the [Myco Labs Grower's Select Mushroom Monotub Fruiting Chamber](https://amzn.to/3Oo3zyU), the results were impressive. With the Hydroponic Humidifier, maintaining a 95% humidity rate became a reality. Now, the task at hand is fine-tuning the schedule for optimal performance.
 
 # Challenges Encountered
 
@@ -32,3 +32,7 @@ In conclusion, the Hydroponic Humidifier is more than just a gadget – it's an 
 For those seeking a compact, reliable, and hassle-free solution for humidity management in single monotub setups, the Hydroponic Humidifier from MidwestGrowKits.com comes highly recommended. It's a departure from the complexities of traditional humidifiers, offering a streamlined approach without compromising effectiveness. As I continue my cultivation journey, the Hydroponic Humidifier remains a crucial component, simplifying the intricate dance between moisture and my fungi endeavors.
 
 
+# Affilate info:
+Amazon Affiliate Disclaimer: "As an Amazon Associate, I earn from qualifying purchases. This video and description may contain affiliate links, which means that if you click on one of the product links, I’ll receive a small commission at no extra cost to you. This helps support the channel and allows us to continue to make videos like this. Thank you for the support! 
+
+No other affilate memberships at the time of this writting. 
