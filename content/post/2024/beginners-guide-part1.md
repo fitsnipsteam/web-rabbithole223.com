@@ -8,6 +8,8 @@ thumbnail: "https://static.rabbithole223.com/images/2024/512-rabbit-stop-sign.jp
 tags: ["home mushroom cultivation", "beginner guide", "DIY mushroom growing"]
 ---
 
+* 2024-03-01 Update with [Midwest Grow Kits](https://midwestgrowkits.referralrock.com/l/RABBITHOLE22/) Affilate links.
+
 ## Introduction
 
 Mushrooms have always fascinated me, and I've found joy in sharing this interest with others, especially those new to mushroom cultivation. Inspired by the informative and engaging content from creators like [PhillyGoldenTeacher](https://www.youtube.com/@PhillyGoldenTeacher) and [therookiemycologist](https://www.youtube.com/@therookiemycologist), I embarked on my own mushroom growing journey. Despite the challenges faced during my initial attempts, each failure was a step closer to understanding the delicate balance required for successful mushroom cultivation.
@@ -24,7 +26,7 @@ Determined to overcome the moisture issue, I upgraded to a [48-Quart Monotub](ht
 
 ## Third Wave
 
-Undeterred, I invested in a comprehensive setup from [Mid West Grow Kits](https://www.midwestgrowkits.com/), including a Mushroom Ecosphere 3.0 [Review](https://www.midwestgrowkits.com/the-mushroom-ecosphere-3-0.aspx) and various other products, totaling over $1,000. My ambition was to turn this passion into a business. However, I quickly realized that not all the products were suited for the types of mushrooms I intended to grow, such as the Lions Mane.
+Undeterred, I invested in a comprehensive setup from [Mid West Grow Kits](https://midwestgrowkits.referralrock.com/l/RABBITHOLE22/), including a Mushroom [Ecosphere 3.0 Review](https://midwestgrowkits.referralrock.com/l/RABBITHOLE22/Ecosphere) and various other products, totaling over $1,000. My ambition was to turn this passion into a business. However, I quickly realized that not all the products were suited for the types of mushrooms I intended to grow, such as the Lions Mane.
 
 As my collection of mushroom varieties grew, so did the realization that each type required a different approach. The Pink Oysters and Lions Mane thrived, while others struggled due to incompatible environments. This experience highlighted the importance of understanding the unique requirements of each mushroom type.
 
@@ -36,4 +38,5 @@ For those new to mushroom cultivation, I recommend starting small. Choose one gr
 
 Amazon Affiliate Disclaimer: "As an Amazon Associate, I earn from qualifying purchases. This video and description may contain affiliate links, which means that if you click on one of the product links, I’ll receive a small commission at no extra cost to you. This helps support the channel and allows us to continue to make videos like this. Thank you for the support!
 
-No other affiliate memberships at the time of this writing.
+~~No other affiliate memberships at the time of this writing.~~
+2024-03-01 Update with Midwest Grow Kits Affilate links. 

@@ -7,6 +7,8 @@ thumbnail: "https://static.rabbithole223.com/images/2024/512-shiitake-grow-01.jp
 tags: ["mushroom cultivation", "food", "diy", "shiitake"]
 ---
 
+* 2024-03-01 Update with [Midwest Grow Kits](https://midwestgrowkits.referralrock.com/l/RABBITHOLE22/) Affilate links.
+
 First thing I learned was that I might have started the block too soon! The color was not as deep brown as I have read is the suggested color of the brick before starting fruiting. 
 
 ## Introduction
@@ -19,7 +21,7 @@ My personal motivation for choosing to grow shiitake mushrooms stemmed from a de
 
 ![day0](https://static.rabbithole223.com/images/2024/512-shiitake-grow-01.jpeg)
 
-I purchased four of the [Mystery Kit Specials](https://www.midwestgrowkits.com/ready-to-grow-gourmet-mushroom-kit-5lbs-your-choice.aspx) from Midwest Grow Kits, my favorite Bitcoin-accepting vendor! 
+I purchased four of the [Mystery Kit Specials](https://midwestgrowkits.referralrock.com/l/RABBITHOLE22/ReadyGrow) from Midwest Grow Kits, my favorite Bitcoin-accepting vendor! 
 
 From Midwest Grow Kits site:
 
@@ -27,7 +29,7 @@ From Midwest Grow Kits site:
 
 My shipment included the Lion's Mane, Pioppino, King Trumpet, and of course the Shiitake mushroom grow kits. These kits arrived a week before Christmas, a busy time in my house, so I didn't open them until the first week of January. When I did, a few of them had a note that the blocks are new and I should let them sit for 2 weeks. It had been a few weeks already, but looking at them, I didn't feel they had enough mycelium growth, so I threw them back in the closet, but I didn't close the door. I think this is why the Shiitake and Pioppino started to grow. The Shiitake block was still white and not yet the dark brown that most of them I see on the internet are, maybe I started them too soon.
 
-Anyway, I threw them on my [The Mushroom Humidity Dome](https://www.midwestgrowkits.com/the-mushroom-humidity-dome.aspx) tray, put in about a half-inch of water, and put the whole thing into my [Mushroom Ecosphere 3.0](https://www.midwestgrowkits.com/the-mushroom-ecosphere-3-0.aspx) tent. 
+Anyway, I threw them on my [The Mushroom Humidity Dome](https://midwestgrowkits.referralrock.com/l/RABBITHOLE22/) tray, put in about a half-inch of water, and put the whole thing into my [Mushroom Ecosphere 3.0](https://midwestgrowkits.referralrock.com/l/RABBITHOLE22/Ecosphere) tent. 
 
 I will update this article as the grow moves forward.
 
@@ -40,3 +42,5 @@ I will update this article as the grow moves forward.
 Check out videos of this grow at:
 
 https://youtube.com/playlist?list=PLhTRd38kjUGuz_xZQb6fUW_PYDHUSubzC&si=TDXD9BAiJIlhEW10
+
+

@@ -9,7 +9,7 @@ categories: [ "Reviews" ]
 
 # Introduction
 
-OK on my first run with the [Hydroponic humidifier](https://www.midwestgrowkits.com/-Hydroponic-Humidifier-System-with-HEPA-Air-Hoses) I didnt have a lot of luck. As expected it was moslty user error. I am not going to cover the product details here again but you can ready my orginal review [CLICK HERE](https://www.rabbithole223.com/post/mwgk-hydroponichumidifier-hydroton/) and get all that fun info.
+OK on my first run with the [Hydroponic Humidifier System with HEPA Air Hoses](https://midwestgrowkits.referralrock.com/l/RABBITHOLE22/) I didnt have a lot of luck. As expected it was moslty user error. I am not going to cover the product details here again but you can ready my orginal review [CLICK HERE](https://www.rabbithole223.com/post/mwgk-hydroponichumidifier-hydroton/) and get all that fun info.
 
 
 # Initial Expectations
@@ -35,4 +35,5 @@ For those seeking a compact, reliable, and hassle-free solution for humidity man
 # Affilate info:
 Amazon Affiliate Disclaimer: "As an Amazon Associate, I earn from qualifying purchases. This video and description may contain affiliate links, which means that if you click on one of the product links, I’ll receive a small commission at no extra cost to you. This helps support the channel and allows us to continue to make videos like this. Thank you for the support! 
 
-No other affilate memberships at the time of this writting. 
+
+* 2024-03-01 Update with [Midwest Grow Kits](https://midwestgrowkits.referralrock.com/l/RABBITHOLE22/) Affilate links. 

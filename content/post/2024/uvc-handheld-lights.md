@@ -7,6 +7,8 @@ tags: ["tools", "getting started", "midwestgrowkits"]
 categories: [ "Reviews" ]
 ---
 
+* 2024-03-01 Update with [Midwest Grow Kits](https://midwestgrowkits.referralrock.com/l/RABBITHOLE22/) Affilate links.
+
 ## WARNING: While UV-C light offers a non-chemical, no-touch sterilization method, its use requires careful handling:
 
 - **Safety Precautions**: Always use protective gear, like gloves and safety goggles, to minimize skin and eye exposure.
@@ -24,7 +26,7 @@ UV-C light, part of the ultraviolet spectrum, is distinguished by its short wave
 
 ### Midwest Grow Kits: Innovations in Mycology
 
-Midwest Grow Kits offers two specialized UV-C light sterilizers tailored for mycology enthusiasts: the SteriWave Pro UV-C Light wand and the JD-L08 SpotBeam UV-C Light.
+[Midwest Grow Kits](https://midwestgrowkits.referralrock.com/l/RABBITHOLE22/) offers two specialized UV-C light sterilizers tailored for mycology enthusiasts: the SteriWave Pro UV-C Light wand and the JD-L08 SpotBeam UV-C Light.
 
 - **SteriWave Pro UV-C Light Wand**: Operating at 254.3nm, this portable device is perfect for sterilizing work surfaces, spore syringe needles, and other tools essential in mushroom cultivation. Its built-in safety features, such as the auto-off switch, ensure protection and ease of use.
   

@@ -11,7 +11,7 @@ tags: ["mushroom cultivation", "home gardening", "culinary adventures", "DIY", "
 
 ## The Beginning of a Fungal Tale
 
-Imagine stumbling across a treasure chest, but instead of gold, it's filled with spores! That's what happened to me on Midwest Grow Kits, a haven for mycology enthusiasts that accepts Bitcoin—how futuristic! I grabbed their [Mystery Kit Special](https://www.midwestgrowkits.com/ready-to-grow-gourmet-mushroom-kit-5lbs-your-choice.aspx), and what do I find? A Pioppino mushroom kit. Pioppino? Never heard of it, but I'm all in for a taste of the unknown. Wrapped up like a holiday gift, it sat waiting for its moment.
+Imagine stumbling across a treasure chest, but instead of gold, it's filled with spores! That's what happened to me on Midwest Grow Kits, a haven for mycology enthusiasts that accepts Bitcoin—how futuristic! I grabbed their [Mystery Kit Special](https://midwestgrowkits.referralrock.com/l/RABBITHOLE22/ReadyGrow), and what do I find? A Pioppino mushroom kit. Pioppino? Never heard of it, but I'm all in for a taste of the unknown. Wrapped up like a holiday gift, it sat waiting for its moment.
 
 Then, on January 16th, 2024, my curiosity couldn't take it anymore. I peeked inside the closet, and there they were, tiny mushroom pins peeking back, ready to embark on our journey together.
 
@@ -34,3 +34,5 @@ And then, magic! My daughter, with her sharp eyes, spotted the Pioppinos, shyly 
 ### The Culinary Curtain Call
 
 Fast forward to February 11th: harvest day. The Pioppinos, no longer hiding, were ready to take center stage, weighing in at a triumphant 148 grams. That evening, they graced my burger with their presence, and oh, what a performance it was! Dive into the videos to witness this fungal festivity from spore to plate.
+
+* 2024-03-01 Update with [Midwest Grow Kits](https://midwestgrowkits.referralrock.com/l/RABBITHOLE22/) Affilate links. 
