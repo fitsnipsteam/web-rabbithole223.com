@@ -7,6 +7,8 @@ thumbnail: "https://static.rabbithole223.com/images/2024/512-shiitake-grow-01.jp
 tags: ["mushroom cultivation", "food", "diy", "shiitake"]
 ---
 
+* 2024-03-01 Update with [Midwest Grow Kits](https://midwestgrowkits.referralrock.com/l/RABBITHOLE22/) Affilate links. 
+
 I had Turkey Tail, Antler Reishi, Shiitake, Pioppino, and King Trumpet Oysters growing so I was trying to stall the Pink Oysters I had from MyCo Labs. Saddly they started to fruit in the bag in the dark, so I was left with no choice but to get them moving.
 
 
@@ -19,7 +21,7 @@ I had Turkey Tail, Antler Reishi, Shiitake, Pioppino, and King Trumpet Oysters g
 
 ![day0](https://static.rabbithole223.com/images/2024/512-shiitake-grow-01.jpeg)
 
-As stated in my other 2024 grow articles I purchased four of the [Mystery Kit Specials](https://www.midwestgrowkits.com/ready-to-grow-gourmet-mushroom-kit-5lbs-your-choice.aspx) from Midwest Grow Kits, my favorite Bitcoin-accepting vendor! Whad I didnt share is I really wanted to grow Pink Oysters and to make sure I received that I also ordered a one box that was not a mystery. 
+As stated in my other 2024 grow articles I purchased four of the [Mystery Kit Specials](https://midwestgrowkits.referralrock.com/l/RABBITHOLE22/ReadyGrow) from Midwest Grow Kits, my favorite Bitcoin-accepting vendor! Whad I didnt share is I really wanted to grow Pink Oysters and to make sure I received that I also ordered a one box that was not a mystery. 
 
 From Midwest Grow Kits site:
 
@@ -27,7 +29,7 @@ From Midwest Grow Kits site:
 
 My shipment included the Lion's Mane, Pioppino, King Trumpet, and of course the Shiitake mushroom grow kits. These kits arrived a week before Christmas, a busy time in my house, so I didn't open them until the first week of January. When I did, a few of them had a note that the blocks are new and I should let them sit for 2 weeks. It had been a few weeks already, but looking at them, I didn't feel they had enough mycelium growth, so I threw them back in the closet, but I didn't close the door. I think this is why the Shiitake and Pioppino started to grow. The Shiitake block was still white and not yet the dark brown that most of them I see on the internet are, maybe I started them too soon.
 
-Anyway, I threw them into my [Mushroom Ecosphere 3.0](https://www.midwestgrowkits.com/the-mushroom-ecosphere-3-0.aspx) tent. 
+Anyway, I threw them into my [Mushroom Ecosphere 3.0](https://midwestgrowkits.referralrock.com/l/RABBITHOLE22/Ecosphere) tent. 
 
 I will update this article as the grow moves forward.
 
@@ -40,3 +42,5 @@ I will update this article as the grow moves forward.
 Check out videos of this grow at:
 
 https://youtube.com/playlist?list=PLhTRd38kjUGuz_xZQb6fUW_PYDHUSubzC&si=TDXD9BAiJIlhEW10
+
+

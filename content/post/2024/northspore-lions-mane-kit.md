@@ -7,6 +7,7 @@ tags: ["tools", "getting started", "northspore", "lions mane", "mushrooms"]
 categories: [ "Reviews" ]
 ---
 
+* 2024-03-01 Update with [Midwest Grow Kits](https://midwestgrowkits.referralrock.com/l/RABBITHOLE22/) Affilate links.
 
 ## Introduction
 
@@ -24,7 +25,7 @@ The **quality of the substrate** and the health of the mycelium were impressive.
 
 ### Growing Process
 
-Observing the development of Lion's Mane mushrooms was not only **educational but also immensely rewarding**. I did struggle with moisture issues as my house runs at 54% humidity and 72 degrees. The fruiting started without issue, but I had issues with it drying out. I purchased a monotub and put the box inside to help maintain moisture levels. Unfortunately, I was spraying water in via the air holes and managed to soak the Lion's Mane, causing it to yellow and get soft. I was able to harvest the first flush and did enjoy them after cutting off the yellow and soft parts. Unfortunately, I made the same mistake on flush two, and it was unsalvageable. I must note the instructions said to make a tent with a bag, but I thought I could outsmart it. I am now trying for a third flush after soaking the bag for 24 hours. Since the second flush aborted so soon, I am hoping there is enough energy left in the wood substrate for one more. I have also moved to using the [Hydroponic Humidifier with Hydroton](https://www.rabbithole223.com/post/mwgk-hydroponichumidifier-hydroton-updated/) from [Midwest Grow Kits](https://www.midwestgrowkits.com/-Hydroponic-Humidifier-System-with-HEPA-Air-Hoses)
+Observing the development of Lion's Mane mushrooms was not only **educational but also immensely rewarding**. I did struggle with moisture issues as my house runs at 54% humidity and 72 degrees. The fruiting started without issue, but I had issues with it drying out. I purchased a monotub and put the box inside to help maintain moisture levels. Unfortunately, I was spraying water in via the air holes and managed to soak the Lion's Mane, causing it to yellow and get soft. I was able to harvest the first flush and did enjoy them after cutting off the yellow and soft parts. Unfortunately, I made the same mistake on flush two, and it was unsalvageable. I must note the instructions said to make a tent with a bag, but I thought I could outsmart it. I am now trying for a third flush after soaking the bag for 24 hours. Since the second flush aborted so soon, I am hoping there is enough energy left in the wood substrate for one more. I have also moved to using the [Hydroponic Humidifier with Hydroton](https://www.rabbithole223.com/post/mwgk-hydroponichumidifier-hydroton-updated/) from [Midwest Grow Kits](https://midwestgrowkits.referralrock.com/l/RABBITHOLE22/)
 
 ### First Flush
 

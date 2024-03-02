@@ -8,6 +8,8 @@ thumbnail: "https://static.rabbithole223.com/images/2024/512-rabbit-stop-sign.jp
 tags: ["home mushroom cultivation", "beginner guide", "DIY mushroom growing"]
 ---
 
+* 2024-03-01 Update with [Midwest Grow Kits](https://midwestgrowkits.referralrock.com/l/RABBITHOLE22/) Affilate links.
+
 ## Introduction
 
 Mushrooms have always fascinated me, and I've found joy in sharing this interest with others, especially those new to mushroom cultivation. Inspired by the informative and engaging content from creators like [PhillyGoldenTeacher](https://www.youtube.com/@PhillyGoldenTeacher) and [therookiemycologist](https://www.youtube.com/@therookiemycologist), I embarked on my own mushroom growing journey. Despite the challenges faced during my initial attempts, each failure was a step closer to understanding the delicate balance required for successful mushroom cultivation.

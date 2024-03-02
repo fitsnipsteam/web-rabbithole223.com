@@ -9,7 +9,7 @@ categories: [ "Reviews" ]
 
 # Introduction
 
-As an mushroom cultivator, I recently invested in a [Hydroponic Humidifier System](https://www.midwestgrowkits.com/-Hydroponic-Humidifier-System-with-HEPA-Air-Hoses) designed explicitly for maintaining optimal humidity levels during the growth process. Excited about the potential improvements in my monotub cultivation, I aimed to cotrol the humidity control for a more efficient and productive mushroom-growing environment for my Lions Mane mushroom kit from North Spore.
+As an mushroom cultivator, I recently invested in a [Hydroponic Humidifier System](https://midwestgrowkits.referralrock.com/l/RABBITHOLE22/) designed explicitly for maintaining optimal humidity levels during the growth process. Excited about the potential improvements in my monotub cultivation, I aimed to cotrol the humidity control for a more efficient and productive mushroom-growing environment for my Lions Mane mushroom kit from North Spore.
 
 # Product Details
 
@@ -47,3 +47,5 @@ If anyone has advice, guidance, or insights on potential improvements or adjustm
 # Conclusion
 
 While the hydroponic humidifier system holds promise, my current experience raises concerns about its practical effectiveness in my specific cultivation scenario. I remain optimistic that with adjustments and shared insights from the community, this system can live up to its potential and contribute significantly to a more successful and efficient mushroom cultivation journey.
+
+* 2024-03-01 Update with [Midwest Grow Kits](https://midwestgrowkits.referralrock.com/l/RABBITHOLE22/) Affilate links. 

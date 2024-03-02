@@ -5,9 +5,11 @@ tags: ["mushrooms", "getting started", "midwestgrowkits", "reviews"]
 categories: [ "Reviews" ]
 ---
 
+* 2024-03-01 Update with [Midwest Grow Kits](https://midwestgrowkits.referralrock.com/l/RABBITHOLE22/) Affilate links.
+
 ## Introduction
 
-Embarking on a journey into home mushroom cultivation, we opted for the [Mushroom Ecosphere 3.0](https://www.midwestgrowkits.com/the-mushroom-ecosphere-3-0.aspx) from Midwest Grow Kits. Our experience with this system has been a mix of highs and lows, and here we are offering insights into its assembly, additional accessories, and functionality.
+Embarking on a journey into home mushroom cultivation, we opted for the [Mushroom Ecosphere 3.0](https://midwestgrowkits.referralrock.com/l/RABBITHOLE22/Ecosphere) from Midwest Grow Kits. Our experience with this system has been a mix of highs and lows, and here we are offering insights into its assembly, additional accessories, and functionality.
 
 ## Ordering and Assembly
 
@@ -15,11 +17,11 @@ The initial process of purchasing the Mushroom Ecosphere 3.0 was straightforward
 
 ## Accessory Choices
 
-Regrettably, we chose to invest in the 5th shelf over the [Heavy Duty Condensation Drip Tray](https://www.midwestgrowkits.com/heavy-duty-condensation-drip-tray-for-ecosphere-greenhouses.aspx), an oversight that led to a lesson learned. Upon realizing the importance of the drip tray, we promptly ordered it separately, and it arrived promptly, rectifying the oversight. In hindsight, it would have been wiser to prioritize the drip tray initially.
+Regrettably, we chose to invest in the 5th shelf over the [Heavy Duty Condensation Drip Tray](https://midwestgrowkits.referralrock.com/l/RABBITHOLE22/Ecosphere), an oversight that led to a lesson learned. Upon realizing the importance of the drip tray, we promptly ordered it separately, and it arrived promptly, rectifying the oversight. In hindsight, it would have been wiser to prioritize the drip tray initially.
 
 ## Digital Humidity Controller
 
-One wise investment we made was the [Digital Humidity Controller for High Humidity Environments](https://www.midwestgrowkits.com/digital-humidity-controller-for-high-humidity-environments.aspx), priced at $29.99. This addition has proven to be a valuable asset in maintaining optimal humidity levels within the Ecosphere. However, we encountered some challenges related to its setup due to its short cords. 
+One wise investment we made was the [Digital Humidity Controller for High Humidity Environments](https://midwestgrowkits.referralrock.com/l/RABBITHOLE22/), priced at $29.99. This addition has proven to be a valuable asset in maintaining optimal humidity levels within the Ecosphere. However, we encountered some challenges related to its setup due to its short cords. 
 
 ## Challenges and Considerations
 
