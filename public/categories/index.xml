@@ -6,7 +6,16 @@
     <description>Recent content in Categories on Rabbit Hole 223</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Business</title>
+      <link>/categories/business/</link>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/business/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>MAGIC-QUADRANT</title>
       <link>/categories/magic-quadrant/</link>
@@ -49,15 +58,6 @@
       <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>/categories/cooking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Business</title>
-      <link>/categories/business/</link>
-      <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/business/</guid>
       <description></description>
     </item>
     
