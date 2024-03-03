@@ -20,7 +20,7 @@ thumbnail: "https://static.rabbithole223.com/images/2024/affilate-links-generic.
 - [TubeBuddy](https://www.tubebuddy.com/pricing?a=RABBITHOLE223) 
 
 
-# Products purchases from online vendors for videos
+## Products purchases from online vendors for videos
   - [Echosphere 3.0 kit](https://midwestgrowkits.referralrock.com/l/RABBITHOLE22/Ecosphere)
   - Spawn Media
     - [BEN'S ORIGINAL Ready Rice Whole Grain Brown Rice Pouch (Pack of 12)](https://amzn.to/4bWfpKW)
