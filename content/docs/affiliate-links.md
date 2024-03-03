@@ -1,40 +1,26 @@
 ---
-title: "Rabbithole223: Business Objectives 2024 Checkin Mile Stone 1"
-date: 2024-03-02
-categories: [ "Business" ]
-draft: false
+title: Affiliate Links 
+descrption: 
+date: 2024-03-02T12:00:00.000Z
+authorbox: false
 sidebar: false
 pager: false
-thumbnail: "https://static.rabbithole223.com/images/2024/rh223-making-money-01.jpeg" 
+weight: 1
+menu:
+  main:
+    name: 
+tags: ["Affiliate Links", "diy", "amazon"]
+thumbnail: "https://static.rabbithole223.com/images/2024/affilate-links-generic.jpg"
 ---
 
 * Contains affiliate links, which means that if you click on one of the product links, I’ll receive a small commission at no extra cost to you.
 
-**Key Objectives:**
-- Reach 100 subscribers on YouTube by Feb 28th.
-  - Achived Feb 29th 2024)
-- Initiate channel monetization and establish affiliate partnerships.
-  - [Amazon Product Links](https://amzn.to/42P7lYg)
-  - [Midwest Grow Kits](https://midwestgrowkits.referralrock.com/l/RABBITHOLE22/)
+- [Amazon](https://amzn.to/42P7lYg)
+- [Midwest Grow Kits](https://midwestgrowkits.referralrock.com/l/RABBITHOLE22/)
+- [TubeBuddy](https://www.tubebuddy.com/pricing?a=RABBITHOLE223) 
 
-**Aspirants Analysis: UPDATED March 02, 2024 :**  
-- [Renegade Mushrooms](https://www.youtube.com/@RenegadeMushrooms) if you not watching his content you should be, this videos on monotub growth of culinary mushrooms has been amazing to see. 
 
-**Content Strategy UPDATED March 02, 2024 :** 
-- **YouTube:** 1 long-form video per week 3+ minutes, 2 shorts per day five days a week
-- **Rumble:** 1 long-form video per week 3+ minutes, 1 shorts per day five days a week
-- **Website:** 1 article every two weeks focusing on in-depth guides, reviews, and personal experiences
-
-**SEO Strategy:**
-- Keyword optimization for mushroom-related topics
- - The use of [Tubebuddy](https://www.tubebuddy.com/pricing?a=RABBITHOLE223) has been worderful for this, worth the price I am paying.
-
-**Current Revenue Streams** 
-- [Amazon Affiliate Product Links](https://amzn.to/42P7lYg): $0.00
-- [Midwest Grow Kits Affiliate Links](https://midwestgrowkits.referralrock.com/l/RABBITHOLE22/): $0.00
-
-**Budget:**
-- Purchase of products to review purchased from online vendors: $1500 to date
+# Products purchases from online vendors for videos
   - [Echosphere 3.0 kit](https://midwestgrowkits.referralrock.com/l/RABBITHOLE22/Ecosphere)
   - Spawn Media
     - [BEN'S ORIGINAL Ready Rice Whole Grain Brown Rice Pouch (Pack of 12)](https://amzn.to/4bWfpKW)
@@ -74,19 +60,12 @@ thumbnail: "https://static.rabbithole223.com/images/2024/rh223-making-money-01.j
   - [MERV 13 Material for Air Filters](https://amzn.to/3P7nkvg)
   - [WEST TUNE 3000rpm Magnetic Stirrer Mixer](https://amzn.to/3UXsQUZ)
   - [Sterilite 6 Quart ClearView Latch - Shoebox](https://amzn.to/3wxz9Em)
-  - [20W USB C Power Strip, 321 Power Strip with 3 Outlets and USB C](https://amzn.to/49Bd4TY)
   - [#11 Surgical Blades with #3 Scalpel Knife](https://amzn.to/3wBCW3N)        
-  - and more
-- Equipment and website maintenance costs: $550 to date
+
+## Equipment and website maintenance
   - [GoPro HERO8 Black - Waterproof Action Camera with Touch Screen 4K Ultra HD](https://amzn.to/3Tjn4vp)
-  - InShot Pro Yearly memebership
-  - AWS Amplify (Website)
+  - [20W USB C Power Strip, 321 Power Strip with 3 Outlets and USB C](https://amzn.to/49Bd4TY)
 
-**Milestones:**
-- 100 subscribers by end of February 2024 (achived Feb 29, 2024)
-- 250 subscribers by the April 2024
-- 500 subscribers and 3000 watch hours by June 2024
 
-**Affiliate Partnership Goals:**
-- Secure at least one affilate link with a mushroom supply vendor by June 2024, achived Feb 2024 [Midwest Grow Kits](https://midwestgrowkits.referralrock.com/l/RABBITHOLE22/)
+
 
