@@ -21,7 +21,7 @@ Update 2024-01-24 I have joined the Amazon Associate program
 
 Amazon Affiliate Disclaimer: "As an Amazon Associate, I earn from qualifying purchases. This video and description may contain affiliate links, which means that if you click on one of the product links, I’ll receive a small commission at no extra cost to you. This helps support the channel and allows us to continue to make videos like this. Thank you for the support!
 
-Update 2024-03-01 I have joined the [Midwest Grow Kits]() affiate program 
+Update 2024-03-01 I have joined the [Midwest Grow Kits](https://midwestgrowkits.referralrock.com/l/RABBITHOLE22/) affiate program 
 
 
 
