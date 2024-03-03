@@ -1,5 +1,5 @@
 ---
-title: "Rabbithole223: Business Objectives 2024 Checkin Mile stone 1"
+title: "Rabbithole223: Business Objectives 2024 Checkin Mile Stone 1"
 date: 2024-03-02
 categories: [ "Business" ]
 draft: false
