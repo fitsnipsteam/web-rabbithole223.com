@@ -24,6 +24,7 @@ thumbnail: "https://static.rabbithole223.com/images/2024/affilate-links-generic.
   - [Echosphere 3.0 kit](https://midwestgrowkits.referralrock.com/l/RABBITHOLE22/Ecosphere)
   - Spawn Media
     - [BEN'S ORIGINAL Ready Rice Whole Grain Brown Rice Pouch (Pack of 12)](https://amzn.to/4bWfpKW)
+    - [Minute RTS Brown Rice, 2-4.4 Ounce Cups (Pack of 8)](https://amzn.to/3wBzlTc)
     - [100% Organic Rye Berries 5lb](https://amzn.to/49QyzAF)
     - [Bulk Organic Rye Berries (40 LBS)](https://midwestgrowkits.referralrock.com/l/RABBITHOLE22)
     - [Premium 5-Grain Spawn Bags](https://midwestgrowkits.referralrock.com/l/RABBITHOLE22/5GrainBagss) 
