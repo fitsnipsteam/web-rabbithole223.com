@@ -20,7 +20,8 @@ thumbnail: "https://static.rabbithole223.com/images/2024/affilate-links-generic.
 - [TubeBuddy](https://www.tubebuddy.com/pricing?a=RABBITHOLE223) 
 
 
-## Products purchases from online vendors for videos
+## Products purchases from online vendors for videos, every item on this list I have personally used. 
+
   - [Echosphere 3.0 kit](https://midwestgrowkits.referralrock.com/l/RABBITHOLE22/Ecosphere)
   - Spawn Media
     - [BEN'S ORIGINAL Ready Rice Whole Grain Brown Rice Pouch (Pack of 12)](https://amzn.to/4bWfpKW)
@@ -71,7 +72,8 @@ thumbnail: "https://static.rabbithole223.com/images/2024/affilate-links-generic.
   - [Fresh Air Amplifier Fan Unit For Ecosphere Greenhouse Systems](https://midwestgrowkits.referralrock.com/l/RABBITHOLE22)
   - [Cordyceps Militaris Complete Grow Kit (16oz Jar)](https://midwestgrowkits.referralrock.com/l/RABBITHOLE22)
   - [All-in-One Bulk Monobag Kit](https://midwestgrowkits.referralrock.com/l/RABBITHOLE22/Monobag)
-
+  - [Magic Mill Food Dehydrator Machine](https://amzn.to/3V0Rior)
+  - [COSORI Food Dehydrator Machine](https://amzn.to/3Vb64Jr)
 
 
 
