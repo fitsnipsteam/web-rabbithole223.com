@@ -40,7 +40,7 @@ thumbnail: "https://static.rabbithole223.com/images/2024/affilate-links-generic.
     - [Plastic Portion Cups With Lid](https://amzn.to/3OTxnDM)
     - [Digital Gram Scale 500g 0.01g Food Scale](https://amzn.to/4bH0dRX)
     - [Agar Agar Powder](https://amzn.to/49qlcXl)
-    - [500ml Glass Round Media Storage Bottles](https://amzn.to/3T5HTum)
+    - [500ml Glass Round Media Storage Bottles](https://amzn.to/3T9D0PQ)
     - [HiMedia RM001V-100G HiVeg Peptone, 100g](https://amzn.to/3uWKOMB) 
     - [6Pcs PTFE Magnetic Stirrer Bar](https://amzn.to/49WkdOB)
     - [Dried Malt Extract Light (Powder Form)](https://amzn.to/3TmMXL7)
