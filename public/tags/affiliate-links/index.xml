@@ -2,19 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Affiliate Links on Rabbit Hole 223</title>
-    <link>/tags/affiliate-links/</link>
+    <link>//localhost:1313/tags/affiliate-links/</link>
     <description>Recent content in Affiliate Links on Rabbit Hole 223</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Mar 2024 12:00:00 +0000</lastBuildDate><atom:link href="/tags/affiliate-links/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Mar 2024 12:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/affiliate-links/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Affiliate Links</title>
-      <link>/docs/affiliate-links/</link>
+      <link>//localhost:1313/docs/affiliate-links/</link>
       <pubDate>Sat, 02 Mar 2024 12:00:00 +0000</pubDate>
-      
-      <guid>/docs/affiliate-links/</guid>
+      <guid>//localhost:1313/docs/affiliate-links/</guid>
       <description>Contains affiliate links, which means that if you click on one of the product links, I’ll receive a small commission at no extra cost to you. Amazon Midwest Grow Kits TubeBuddy Items we suggest you avoid or goto a atlernate vendor Basic Medical Synmax Vinyl Exam Gloves - Latex-Free &amp;amp; Powder-Free - X-Large, BMPF-3004(Case of 1,000),Blue 100 Count these are cheap and break very easily. Unfortunally I bought 1000 of them so I just have to deal with it.</description>
     </item>
-    
   </channel>
 </rss>

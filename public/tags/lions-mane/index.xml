@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>lions mane on Rabbit Hole 223</title>
-    <link>/tags/lions-mane/</link>
-    <description>Recent content in lions mane on Rabbit Hole 223</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Lions Mane on Rabbit Hole 223</title>
+    <link>//localhost:1313/tags/lions-mane/</link>
+    <description>Recent content in Lions Mane on Rabbit Hole 223</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jan 2024 14:00:00 +0000</lastBuildDate><atom:link href="/tags/lions-mane/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Jan 2024 14:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/lions-mane/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Review of Lion&#39;s Mane Mushroom Growing Kit from North Spore</title>
-      <link>/post/2024/northspore-lions-mane-kit/</link>
+      <link>//localhost:1313/post/2024/northspore-lions-mane-kit/</link>
       <pubDate>Tue, 09 Jan 2024 14:00:00 +0000</pubDate>
-      
-      <guid>/post/2024/northspore-lions-mane-kit/</guid>
-      <description>2024-03-01 Update with Midwest Grow Kits Affilate links. Introduction Recently, I embarked on a fascinating journey of mushroom cultivation by purchasing the Lion&amp;rsquo;s Mane Mushroom Growing Kit from North Spore.
-First Impressions Upon arrival, I found the kit contained everything necessary for a novice grower to start immediately. The clarity of the instructions was exceptional, simplifying the setup process. The included spray bottle was perfect for a first-time mushroom grower.</description>
+      <guid>//localhost:1313/post/2024/northspore-lions-mane-kit/</guid>
+      <description>2024-03-01 Update with Midwest Grow Kits Affilate links. Introduction Recently, I embarked on a fascinating journey of mushroom cultivation by purchasing the Lion&amp;rsquo;s Mane Mushroom Growing Kit from North Spore.&#xA;First Impressions Upon arrival, I found the kit contained everything necessary for a novice grower to start immediately. The clarity of the instructions was exceptional, simplifying the setup process. The included spray bottle was perfect for a first-time mushroom grower.</description>
     </item>
-    
   </channel>
 </rss>

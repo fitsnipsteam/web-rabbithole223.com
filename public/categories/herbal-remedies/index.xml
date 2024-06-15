@@ -2,20 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HERBAL REMEDIES on Rabbit Hole 223</title>
-    <link>/categories/herbal-remedies/</link>
+    <link>//localhost:1313/categories/herbal-remedies/</link>
     <description>Recent content in HERBAL REMEDIES on Rabbit Hole 223</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="/categories/herbal-remedies/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/herbal-remedies/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reishi Mushrooms: Navigating the Realm of Hormonal Harmony</title>
-      <link>/post/2024/anti-androgenic-reishi/</link>
+      <link>//localhost:1313/post/2024/anti-androgenic-reishi/</link>
       <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2024/anti-androgenic-reishi/</guid>
-      <description>Medical Disclaimer This content is for informational purposes only and not intended as medical advice. Always consult a healthcare professional for medical guidance and before making any health-related decisions.
-Reishi Mushrooms: A Natural Solution to Hormonal Imbalances? In the search for natural remedies to balance hormones, particularly for conditions like benign prostatic hyperplasia (BPH) and PCOS, Reishi mushrooms have emerged as a potential ally. Known for their medicinal properties, these mushrooms may play a role in regulating hormonal levels by inhibiting the conversion of testosterone to dihydrotestosterone (DHT).</description>
+      <guid>//localhost:1313/post/2024/anti-androgenic-reishi/</guid>
+      <description>Medical Disclaimer This content is for informational purposes only and not intended as medical advice. Always consult a healthcare professional for medical guidance and before making any health-related decisions.&#xA;Reishi Mushrooms: A Natural Solution to Hormonal Imbalances? In the search for natural remedies to balance hormones, particularly for conditions like benign prostatic hyperplasia (BPH) and PCOS, Reishi mushrooms have emerged as a potential ally. Known for their medicinal properties, these mushrooms may play a role in regulating hormonal levels by inhibiting the conversion of testosterone to dihydrotestosterone (DHT).</description>
     </item>
-    
   </channel>
 </rss>

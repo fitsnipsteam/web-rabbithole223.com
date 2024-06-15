@@ -1,31 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>northspore on Rabbit Hole 223</title>
-    <link>/tags/northspore/</link>
-    <description>Recent content in northspore on Rabbit Hole 223</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Northspore on Rabbit Hole 223</title>
+    <link>//localhost:1313/tags/northspore/</link>
+    <description>Recent content in Northspore on Rabbit Hole 223</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jan 2024 14:00:00 +0000</lastBuildDate><atom:link href="/tags/northspore/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Jan 2024 14:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/northspore/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Review of Lion&#39;s Mane Mushroom Growing Kit from North Spore</title>
-      <link>/post/2024/northspore-lions-mane-kit/</link>
+      <link>//localhost:1313/post/2024/northspore-lions-mane-kit/</link>
       <pubDate>Tue, 09 Jan 2024 14:00:00 +0000</pubDate>
-      
-      <guid>/post/2024/northspore-lions-mane-kit/</guid>
-      <description>2024-03-01 Update with Midwest Grow Kits Affilate links. Introduction Recently, I embarked on a fascinating journey of mushroom cultivation by purchasing the Lion&amp;rsquo;s Mane Mushroom Growing Kit from North Spore.
-First Impressions Upon arrival, I found the kit contained everything necessary for a novice grower to start immediately. The clarity of the instructions was exceptional, simplifying the setup process. The included spray bottle was perfect for a first-time mushroom grower.</description>
+      <guid>//localhost:1313/post/2024/northspore-lions-mane-kit/</guid>
+      <description>2024-03-01 Update with Midwest Grow Kits Affilate links. Introduction Recently, I embarked on a fascinating journey of mushroom cultivation by purchasing the Lion&amp;rsquo;s Mane Mushroom Growing Kit from North Spore.&#xA;First Impressions Upon arrival, I found the kit contained everything necessary for a novice grower to start immediately. The clarity of the instructions was exceptional, simplifying the setup process. The included spray bottle was perfect for a first-time mushroom grower.</description>
     </item>
-    
     <item>
       <title>Unveiling the BoomRoom II: A Sneak Peek into Northspore&#39;s Automated Martha Tent Mushroom Grow Kit</title>
-      <link>/post/2024/boomroomii-prerelease/</link>
+      <link>//localhost:1313/post/2024/boomroomii-prerelease/</link>
       <pubDate>Sun, 07 Jan 2024 12:00:00 +0000</pubDate>
-      
-      <guid>/post/2024/boomroomii-prerelease/</guid>
-      <description>Introduction Home mushroom cultivation enthusiasts, gear up for an exciting addition to your mycology projects – Northspore&amp;rsquo;s upcoming release, the BoomRoom II Automated Martha Tent Mushroom Grow Kit. In this pre-review article, we&amp;rsquo;ll delve into the key features that make this kit stand out and explore how it could elevate your mushroom cultivation game.
-The Allure of the BoomRoom II Northspore is set to launch the BoomRoom II, a comprehensive solution for at-home mushroom cultivation.</description>
+      <guid>//localhost:1313/post/2024/boomroomii-prerelease/</guid>
+      <description>Introduction Home mushroom cultivation enthusiasts, gear up for an exciting addition to your mycology projects – Northspore&amp;rsquo;s upcoming release, the BoomRoom II Automated Martha Tent Mushroom Grow Kit. In this pre-review article, we&amp;rsquo;ll delve into the key features that make this kit stand out and explore how it could elevate your mushroom cultivation game.&#xA;The Allure of the BoomRoom II Northspore is set to launch the BoomRoom II, a comprehensive solution for at-home mushroom cultivation.</description>
     </item>
-    
   </channel>
 </rss>

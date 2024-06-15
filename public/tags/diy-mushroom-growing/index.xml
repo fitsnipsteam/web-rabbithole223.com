@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DIY mushroom growing on Rabbit Hole 223</title>
-    <link>/tags/diy-mushroom-growing/</link>
-    <description>Recent content in DIY mushroom growing on Rabbit Hole 223</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>DIY Mushroom Growing on Rabbit Hole 223</title>
+    <link>//localhost:1313/tags/diy-mushroom-growing/</link>
+    <description>Recent content in DIY Mushroom Growing on Rabbit Hole 223</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/diy-mushroom-growing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/diy-mushroom-growing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beginner&#39;s Guide to Growing Mushrooms at Home Successfully</title>
-      <link>/post/2024/beginners-guide-part1/</link>
+      <link>//localhost:1313/post/2024/beginners-guide-part1/</link>
       <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2024/beginners-guide-part1/</guid>
+      <guid>//localhost:1313/post/2024/beginners-guide-part1/</guid>
       <description>2024-03-01 Update with Midwest Grow Kits Affilate links. Introduction Mushrooms have always fascinated me, and I&amp;rsquo;ve found joy in sharing this interest with others, especially those new to mushroom cultivation. Inspired by the informative and engaging content from creators like PhillyGoldenTeacher and therookiemycologist, I embarked on my own mushroom growing journey. Despite the challenges faced during my initial attempts, each failure was a step closer to understanding the delicate balance required for successful mushroom cultivation.</description>
     </item>
-    
   </channel>
 </rss>
