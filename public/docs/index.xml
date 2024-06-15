@@ -2,55 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docs on Rabbit Hole 223</title>
-    <link>/docs/</link>
+    <link>//localhost:1313/docs/</link>
     <description>Recent content in Docs on Rabbit Hole 223</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Mar 2024 12:00:00 +0000</lastBuildDate><atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Mar 2024 12:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Affiliate Links</title>
-      <link>/docs/affiliate-links/</link>
+      <link>//localhost:1313/docs/affiliate-links/</link>
       <pubDate>Sat, 02 Mar 2024 12:00:00 +0000</pubDate>
-      
-      <guid>/docs/affiliate-links/</guid>
+      <guid>//localhost:1313/docs/affiliate-links/</guid>
       <description>Contains affiliate links, which means that if you click on one of the product links, I’ll receive a small commission at no extra cost to you. Amazon Midwest Grow Kits TubeBuddy Items we suggest you avoid or goto a atlernate vendor Basic Medical Synmax Vinyl Exam Gloves - Latex-Free &amp;amp; Powder-Free - X-Large, BMPF-3004(Case of 1,000),Blue 100 Count these are cheap and break very easily. Unfortunally I bought 1000 of them so I just have to deal with it.</description>
     </item>
-    
     <item>
       <title>Welcome</title>
-      <link>/docs/welcome/</link>
+      <link>//localhost:1313/docs/welcome/</link>
       <pubDate>Thu, 04 Jan 2024 19:04:39 -0500</pubDate>
-      
-      <guid>/docs/welcome/</guid>
-      <description>Dear Readers,
-Embark on a journey into the enchanting realm of mycology, a scientific discipline that unveils the mysteries of fungi, Earth&amp;rsquo;s often overlooked, yet profoundly influential organisms. As we extend a warm welcome to you, we invite you to explore the captivating world of mushrooms, molds, yeasts, and their intricate interactions with the ecosystems they inhabit.
-Discover the Hidden Kingdom: Fungi constitute their own kingdom, separate from plants and animals, showcasing a diversity that is both astonishing and essential to life on our planet.</description>
+      <guid>//localhost:1313/docs/welcome/</guid>
+      <description>Dear Readers,&#xA;Embark on a journey into the enchanting realm of mycology, a scientific discipline that unveils the mysteries of fungi, Earth&amp;rsquo;s often overlooked, yet profoundly influential organisms. As we extend a warm welcome to you, we invite you to explore the captivating world of mushrooms, molds, yeasts, and their intricate interactions with the ecosystems they inhabit.&#xA;Discover the Hidden Kingdom: Fungi constitute their own kingdom, separate from plants and animals, showcasing a diversity that is both astonishing and essential to life on our planet.</description>
     </item>
-    
     <item>
       <title>Frequently asked questions (FAQ)</title>
-      <link>/docs/faq/</link>
+      <link>//localhost:1313/docs/faq/</link>
       <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
-      
-      <guid>/docs/faq/</guid>
-      <description>General Questions Are you being paid by any of the companies that you have reviewed products for As of 2024-01-11 I have not been paid one penny and I have purchased all my products. If that every changes I will be sure to state that in future reviews.
-Update 2024-01-24 I have joined the Amazon Associate program
-Amazon Affiliate Disclaimer: &amp;ldquo;As an Amazon Associate, I earn from qualifying purchases. This video and description may contain affiliate links, which means that if you click on one of the product links, I’ll receive a small commission at no extra cost to you.</description>
+      <guid>//localhost:1313/docs/faq/</guid>
+      <description>General Questions Are you being paid by any of the companies that you have reviewed products for As of 2024-01-11 I have not been paid one penny and I have purchased all my products. If that every changes I will be sure to state that in future reviews.&#xA;Update 2024-01-24 I have joined the Amazon Associate program&#xA;Amazon Affiliate Disclaimer: &amp;ldquo;As an Amazon Associate, I earn from qualifying purchases. This video and description may contain affiliate links, which means that if you click on one of the product links, I’ll receive a small commission at no extra cost to you.</description>
     </item>
-    
     <item>
       <title>RH223 Crypto Wallet Donations</title>
-      <link>/docs/crypto-tips/</link>
+      <link>//localhost:1313/docs/crypto-tips/</link>
       <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
-      
-      <guid>/docs/crypto-tips/</guid>
-      <description>We love cryto! If you enjoy this content you can send a small tip to us, all we can give in return is a thank you and more great content.
-RabbitHole223 Crypto Wallets ETH 0x602063b570AA01989E20F916b1B335790419cB9F
-Bitcoin bc1qvrdzlffcpms97srlah8zyfq227ny5a3l2nt8eq
-USD Coin 0x602063b570AA01989E20F916b1B335790419cB9F
-Dogecoin DK4ya4jSACSrDnfxcVUeFzNrXYE5X6i64f
-Litecoin LUiwuA9ag1PgzAa6RuYnULFcC1xfgtvooD</description>
+      <guid>//localhost:1313/docs/crypto-tips/</guid>
+      <description>We love cryto! If you enjoy this content you can send a small tip to us, all we can give in return is a thank you and more great content.&#xA;RabbitHole223 Crypto Wallets ETH 0x602063b570AA01989E20F916b1B335790419cB9F&#xA;Bitcoin bc1qvrdzlffcpms97srlah8zyfq227ny5a3l2nt8eq&#xA;USD Coin 0x602063b570AA01989E20F916b1B335790419cB9F&#xA;Dogecoin DK4ya4jSACSrDnfxcVUeFzNrXYE5X6i64f&#xA;Litecoin LUiwuA9ag1PgzAa6RuYnULFcC1xfgtvooD</description>
     </item>
-    
   </channel>
 </rss>

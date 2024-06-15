@@ -2,19 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Culinary Experiments on Rabbit Hole 223</title>
-    <link>/categories/culinary-experiments/</link>
+    <link>//localhost:1313/categories/culinary-experiments/</link>
     <description>Recent content in Culinary Experiments on Rabbit Hole 223</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="/categories/culinary-experiments/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/culinary-experiments/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Diving into the World of Pioppino Mushrooms: A Culinary Adventure</title>
-      <link>/post/2024/pioppino-grow-2024/</link>
+      <link>//localhost:1313/post/2024/pioppino-grow-2024/</link>
       <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2024/pioppino-grow-2024/</guid>
+      <guid>//localhost:1313/post/2024/pioppino-grow-2024/</guid>
       <description>The Beginning of a Fungal Tale Imagine stumbling across a treasure chest, but instead of gold, it&amp;rsquo;s filled with spores! That&amp;rsquo;s what happened to me on Midwest Grow Kits, a haven for mycology enthusiasts that accepts Bitcoin—how futuristic! I grabbed their Mystery Kit Special, and what do I find? A Pioppino mushroom kit. Pioppino? Never heard of it, but I&amp;rsquo;m all in for a taste of the unknown. Wrapped up like a holiday gift, it sat waiting for its moment.</description>
     </item>
-    
   </channel>
 </rss>

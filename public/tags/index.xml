@@ -2,388 +2,312 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Rabbit Hole 223</title>
-    <link>/tags/</link>
+    <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on Rabbit Hole 223</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diy</title>
+      <link>//localhost:1313/tags/diy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/diy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Motivation</title>
+      <link>//localhost:1313/tags/motivation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/motivation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mushroom Cultivation</title>
+      <link>//localhost:1313/tags/mushroom-cultivation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/mushroom-cultivation/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Reishi Mushrooms</title>
-      <link>/tags/reishi-mushrooms/</link>
-      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/reishi-mushrooms/</guid>
+      <link>//localhost:1313/tags/reishi-mushrooms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/reishi-mushrooms/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>YouTube</title>
-      <link>/tags/youtube/</link>
-      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/youtube/</guid>
+      <link>//localhost:1313/tags/youtube/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/youtube/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>anti-androgenic</title>
-      <link>/tags/anti-androgenic/</link>
-      <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/anti-androgenic/</guid>
+      <title>Anti-Androgenic</title>
+      <link>//localhost:1313/tags/anti-androgenic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/anti-androgenic/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>DHT</title>
-      <link>/tags/dht/</link>
-      <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/dht/</guid>
+      <link>//localhost:1313/tags/dht/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/dht/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>hormonal health</title>
-      <link>/tags/hormonal-health/</link>
-      <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/hormonal-health/</guid>
+      <title>Hormonal Health</title>
+      <link>//localhost:1313/tags/hormonal-health/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/hormonal-health/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Reishi mushroom</title>
-      <link>/tags/reishi-mushroom/</link>
-      <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/reishi-mushroom/</guid>
+      <title>Reishi Mushroom</title>
+      <link>//localhost:1313/tags/reishi-mushroom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/reishi-mushroom/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>testosterone</title>
-      <link>/tags/testosterone/</link>
-      <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/testosterone/</guid>
+      <title>Testosterone</title>
+      <link>//localhost:1313/tags/testosterone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/testosterone/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>decriminalization</title>
-      <link>/tags/decriminalization/</link>
-      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/decriminalization/</guid>
+      <title>Decriminalization</title>
+      <link>//localhost:1313/tags/decriminalization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/decriminalization/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>drug policy</title>
-      <link>/tags/drug-policy/</link>
-      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/drug-policy/</guid>
+      <title>Drug Policy</title>
+      <link>//localhost:1313/tags/drug-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/drug-policy/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>legislation</title>
-      <link>/tags/legislation/</link>
-      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/legislation/</guid>
+      <title>Legislation</title>
+      <link>//localhost:1313/tags/legislation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/legislation/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Oregon</title>
-      <link>/tags/oregon/</link>
-      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/oregon/</guid>
+      <link>//localhost:1313/tags/oregon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/oregon/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>public health</title>
-      <link>/tags/public-health/</link>
-      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/public-health/</guid>
+      <title>Public Health</title>
+      <link>//localhost:1313/tags/public-health/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/public-health/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Affiliate Links</title>
-      <link>/tags/affiliate-links/</link>
-      <pubDate>Sat, 02 Mar 2024 12:00:00 +0000</pubDate>
-      
-      <guid>/tags/affiliate-links/</guid>
+      <link>//localhost:1313/tags/affiliate-links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/affiliate-links/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>amazon</title>
-      <link>/tags/amazon/</link>
-      <pubDate>Sat, 02 Mar 2024 12:00:00 +0000</pubDate>
-      
-      <guid>/tags/amazon/</guid>
+      <title>Amazon</title>
+      <link>//localhost:1313/tags/amazon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/amazon/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>diy</title>
-      <link>/tags/diy/</link>
-      <pubDate>Sat, 02 Mar 2024 12:00:00 +0000</pubDate>
-      
-      <guid>/tags/diy/</guid>
+      <title>Colorado</title>
+      <link>//localhost:1313/tags/colorado/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/colorado/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>colorado</title>
-      <link>/tags/colorado/</link>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/colorado/</guid>
+      <title>Golden Teacher</title>
+      <link>//localhost:1313/tags/golden-teacher/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/golden-teacher/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>golden teacher</title>
-      <link>/tags/golden-teacher/</link>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/golden-teacher/</guid>
+      <title>Legalization</title>
+      <link>//localhost:1313/tags/legalization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/legalization/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>legalization</title>
-      <link>/tags/legalization/</link>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/legalization/</guid>
+      <title>Psilocybin</title>
+      <link>//localhost:1313/tags/psilocybin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/psilocybin/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>mushroom cultivation</title>
-      <link>/tags/mushroom-cultivation/</link>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/mushroom-cultivation/</guid>
+      <title>Psychedelic</title>
+      <link>//localhost:1313/tags/psychedelic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/psychedelic/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>psilocybin</title>
-      <link>/tags/psilocybin/</link>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/psilocybin/</guid>
+      <title>Magic</title>
+      <link>//localhost:1313/tags/magic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/magic/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>psychedelic</title>
-      <link>/tags/psychedelic/</link>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/psychedelic/</guid>
+      <title>Culinary Adventures</title>
+      <link>//localhost:1313/tags/culinary-adventures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/culinary-adventures/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>magic</title>
-      <link>/tags/magic/</link>
-      <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/magic/</guid>
+      <title>Home Gardening</title>
+      <link>//localhost:1313/tags/home-gardening/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/home-gardening/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>culinary adventures</title>
-      <link>/tags/culinary-adventures/</link>
-      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/culinary-adventures/</guid>
+      <title>Pioppino</title>
+      <link>//localhost:1313/tags/pioppino/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/pioppino/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>home gardening</title>
-      <link>/tags/home-gardening/</link>
-      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/home-gardening/</guid>
+      <title>Beginner Guide</title>
+      <link>//localhost:1313/tags/beginner-guide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/beginner-guide/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>pioppino</title>
-      <link>/tags/pioppino/</link>
-      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/pioppino/</guid>
+      <title>DIY Mushroom Growing</title>
+      <link>//localhost:1313/tags/diy-mushroom-growing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/diy-mushroom-growing/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>beginner guide</title>
-      <link>/tags/beginner-guide/</link>
-      <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/beginner-guide/</guid>
+      <title>Home Mushroom Cultivation</title>
+      <link>//localhost:1313/tags/home-mushroom-cultivation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/home-mushroom-cultivation/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>DIY mushroom growing</title>
-      <link>/tags/diy-mushroom-growing/</link>
-      <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/diy-mushroom-growing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>home mushroom cultivation</title>
-      <link>/tags/home-mushroom-cultivation/</link>
-      <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/home-mushroom-cultivation/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>Pink Oyster</title>
-      <link>/tags/pink-oyster/</link>
-      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/pink-oyster/</guid>
+      <link>//localhost:1313/tags/pink-oyster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/pink-oyster/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>food</title>
-      <link>/tags/food/</link>
-      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/food/</guid>
+      <title>Food</title>
+      <link>//localhost:1313/tags/food/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/food/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>shiitake</title>
-      <link>/tags/shiitake/</link>
-      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/shiitake/</guid>
+      <title>Shiitake</title>
+      <link>//localhost:1313/tags/shiitake/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/shiitake/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>organic gardening</title>
-      <link>/tags/organic-gardening/</link>
-      <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/organic-gardening/</guid>
+      <title>Organic Gardening</title>
+      <link>//localhost:1313/tags/organic-gardening/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/organic-gardening/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>substrate</title>
-      <link>/tags/substrate/</link>
-      <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/substrate/</guid>
+      <title>Substrate</title>
+      <link>//localhost:1313/tags/substrate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/substrate/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>midwestgrowkits</title>
-      <link>/tags/midwestgrowkits/</link>
-      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/midwestgrowkits/</guid>
+      <title>Midwestgrowkits</title>
+      <link>//localhost:1313/tags/midwestgrowkits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/midwestgrowkits/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>getting started</title>
-      <link>/tags/getting-started/</link>
-      <pubDate>Tue, 09 Jan 2024 14:00:00 +0000</pubDate>
-      
-      <guid>/tags/getting-started/</guid>
+      <title>Getting Started</title>
+      <link>//localhost:1313/tags/getting-started/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/getting-started/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>lions mane</title>
-      <link>/tags/lions-mane/</link>
-      <pubDate>Tue, 09 Jan 2024 14:00:00 +0000</pubDate>
-      
-      <guid>/tags/lions-mane/</guid>
+      <title>Lions Mane</title>
+      <link>//localhost:1313/tags/lions-mane/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/lions-mane/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>mushrooms</title>
-      <link>/tags/mushrooms/</link>
-      <pubDate>Tue, 09 Jan 2024 14:00:00 +0000</pubDate>
-      
-      <guid>/tags/mushrooms/</guid>
+      <title>Mushrooms</title>
+      <link>//localhost:1313/tags/mushrooms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/mushrooms/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>northspore</title>
-      <link>/tags/northspore/</link>
-      <pubDate>Tue, 09 Jan 2024 14:00:00 +0000</pubDate>
-      
-      <guid>/tags/northspore/</guid>
+      <title>Northspore</title>
+      <link>//localhost:1313/tags/northspore/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/northspore/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>tools</title>
-      <link>/tags/tools/</link>
-      <pubDate>Tue, 09 Jan 2024 14:00:00 +0000</pubDate>
-      
-      <guid>/tags/tools/</guid>
+      <title>Tools</title>
+      <link>//localhost:1313/tags/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/tools/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>reviews</title>
-      <link>/tags/reviews/</link>
-      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/reviews/</guid>
+      <title>Reviews</title>
+      <link>//localhost:1313/tags/reviews/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/reviews/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>updates</title>
-      <link>/tags/updates/</link>
-      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/updates/</guid>
+      <title>Updates</title>
+      <link>//localhost:1313/tags/updates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/updates/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>atrium</title>
-      <link>/tags/atrium/</link>
-      <pubDate>Fri, 05 Jan 2024 22:57:38 -0600</pubDate>
-      
-      <guid>/tags/atrium/</guid>
+      <title>Atrium</title>
+      <link>//localhost:1313/tags/atrium/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/atrium/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

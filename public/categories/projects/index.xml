@@ -2,21 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Rabbit Hole 223</title>
-    <link>/categories/projects/</link>
+    <link>//localhost:1313/categories/projects/</link>
     <description>Recent content in Projects on Rabbit Hole 223</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jan 2024 22:57:38 -0600</lastBuildDate><atom:link href="/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Jan 2024 22:57:38 -0600</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mushroom Atrium Project</title>
-      <link>/post/2024/mushroom-atrium-project/</link>
+      <link>//localhost:1313/post/2024/mushroom-atrium-project/</link>
       <pubDate>Fri, 05 Jan 2024 22:57:38 -0600</pubDate>
-      
-      <guid>/post/2024/mushroom-atrium-project/</guid>
-      <description>Introduction A simple Mushroom Atrium I saw on youtube and am trying to reproduce.
-Intro Video Supplies List Kitchen Dish Rack $14.00 https://share.temu.com/gxinTM5kp6A
-DC5V WS2812B 5m/Roll 60/m Black/White PCB IP65 $6 https://a.aliexpress.com/_mMrDBze</description>
+      <guid>//localhost:1313/post/2024/mushroom-atrium-project/</guid>
+      <description>Introduction A simple Mushroom Atrium I saw on youtube and am trying to reproduce.&#xA;Intro Video Supplies List Kitchen Dish Rack $14.00 https://share.temu.com/gxinTM5kp6A&#xA;DC5V WS2812B 5m/Roll 60/m Black/White PCB IP65 $6 https://a.aliexpress.com/_mMrDBze</description>
     </item>
-    
   </channel>
 </rss>

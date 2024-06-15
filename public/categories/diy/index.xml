@@ -2,40 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DIY on Rabbit Hole 223</title>
-    <link>/categories/diy/</link>
+    <link>//localhost:1313/categories/diy/</link>
     <description>Recent content in DIY on Rabbit Hole 223</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="/categories/diy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/diy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Make Agar Agar cups for Amateur Mycologists: A Step-by-Step Guide</title>
-      <link>/post/2024/agar-ketchup-cups/</link>
+      <link>//localhost:1313/post/2024/agar-ketchup-cups-copy/</link>
       <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2024/agar-ketchup-cups/</guid>
-      <description>Introduction Agar agar, a gelatinous substance derived from seaweed, is an essential tool for amateur mycologists. Its unique properties make it an ideal medium for cultivating fungi. This article provides a detailed, step-by-step guide on how to make agar agar at home using a simple recipe that combines potato flakes, agar agar, and light corn syrup.
-Huge thank you to PhillyGoldenTeacher and therookiemycologist for their content. The recipe below is from PhillyGoldenTeachers agar video.</description>
+      <guid>//localhost:1313/post/2024/agar-ketchup-cups-copy/</guid>
+      <description>Introduction Agar agar, a gelatinous substance derived from seaweed, is an essential tool for amateur mycologists. Its unique properties make it an ideal medium for cultivating fungi. This article provides a detailed, step-by-step guide on how to make agar agar at home using a simple recipe that combines potato flakes, agar agar, and light corn syrup.&#xA;Huge thank you to PhillyGoldenTeacher and therookiemycologist for their content. The recipe below is from PhillyGoldenTeachers agar video.</description>
     </item>
-    
     <item>
       <title>First Shiitake Grow</title>
-      <link>/post/2024/shiitake-grow-2024/</link>
+      <link>//localhost:1313/post/2024/shiitake-grow-2024/</link>
       <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2024/shiitake-grow-2024/</guid>
-      <description>2024-03-01 Update with Midwest Grow Kits Affilate links. First thing I learned was that I might have started the block too soon! The color was not as deep brown as I have read is the suggested color of the brick before starting fruiting.
-Introduction Shiitake mushrooms, or Lentinula edodes, are flavorful and nutritious edible mushrooms from East Asia. Known for their savory taste and meaty texture, they are a popular choice in various cuisines.</description>
+      <guid>//localhost:1313/post/2024/shiitake-grow-2024/</guid>
+      <description>2024-03-01 Update with Midwest Grow Kits Affilate links. First thing I learned was that I might have started the block too soon! The color was not as deep brown as I have read is the suggested color of the brick before starting fruiting.&#xA;Introduction Shiitake mushrooms, or Lentinula edodes, are flavorful and nutritious edible mushrooms from East Asia. Known for their savory taste and meaty texture, they are a popular choice in various cuisines.</description>
     </item>
-    
     <item>
       <title>Crafting a CVG Substrate for Mushroom Cultivation</title>
-      <link>/post/2024/rh223-cvg/</link>
+      <link>//localhost:1313/post/2024/rh223-cvg/</link>
       <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2024/rh223-cvg/</guid>
-      <description>Crafting a CVG Substrate for Mushroom Cultivation The Coir-Vermiculite-Gypsum (CVG) mixture is a cornerstone in the art of mushroom cultivation, celebrated for its remarkable ability to retain moisture and provide a nutrient-rich foundation. This guide delineates the process of creating a CVG substrate, integrating specific ingredients and measurements to yield optimal results.
-Essential Ingredients and Their Costs Given the competitive pricing on Amazon, and considering the benefits of Prime membership, such as inclusive shipping, the following are the costs for the required materials:</description>
+      <guid>//localhost:1313/post/2024/rh223-cvg/</guid>
+      <description>Crafting a CVG Substrate for Mushroom Cultivation The Coir-Vermiculite-Gypsum (CVG) mixture is a cornerstone in the art of mushroom cultivation, celebrated for its remarkable ability to retain moisture and provide a nutrient-rich foundation. This guide delineates the process of creating a CVG substrate, integrating specific ingredients and measurements to yield optimal results.&#xA;Essential Ingredients and Their Costs Given the competitive pricing on Amazon, and considering the benefits of Prime membership, such as inclusive shipping, the following are the costs for the required materials:</description>
     </item>
-    
   </channel>
 </rss>
