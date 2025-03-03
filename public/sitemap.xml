@@ -2,298 +2,301 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/docs/affiliate-links/</loc>
+    <loc>/docs/affiliate-links/</loc>
     <lastmod>2024-03-02T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/docs/welcome/</loc>
+    <loc>/docs/welcome/</loc>
     <lastmod>2024-01-04T19:04:39-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/docs/faq/</loc>
+    <loc>/docs/faq/</loc>
     <lastmod>2024-01-10T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/docs/crypto-tips/</loc>
+    <loc>/docs/crypto-tips/</loc>
     <lastmod>2024-01-10T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/beginners-guide/</loc>
+    <loc>/tags/beginners-guide/</loc>
+    <lastmod>2025-03-02T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2025-03-02T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/golden-teacher/</loc>
+    <lastmod>2025-03-02T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/2025/growing-gteachers/</loc>
+    <lastmod>2025-03-02T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/magic-quadrant/</loc>
+    <lastmod>2025-03-02T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/mushroom-cultivation/</loc>
+    <lastmod>2025-03-02T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2025-03-02T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/psilocybin/</loc>
+    <lastmod>2025-03-02T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/psychedelic/</loc>
+    <lastmod>2025-03-02T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2025-03-02T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2025-03-02T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/cost/</loc>
     <lastmod>2024-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/cost/</loc>
+    <loc>/post/2024/getting-started/</loc>
     <lastmod>2024-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/2024/getting-started/</loc>
+    <loc>/tags/mushroom-growing/</loc>
     <lastmod>2024-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/mushroom-growing/</loc>
-    <lastmod>2024-06-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/post/</loc>
-    <lastmod>2024-06-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/</loc>
-    <lastmod>2024-06-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/</loc>
-    <lastmod>2024-06-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/categories/business/</loc>
+    <loc>/categories/business/</loc>
     <lastmod>2024-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/tags/diy/</loc>
     <lastmod>2024-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/diy/</loc>
+    <loc>/tags/motivation/</loc>
     <lastmod>2024-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/motivation/</loc>
+    <loc>/post/2024/trials-tribulations/</loc>
     <lastmod>2024-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/mushroom-cultivation/</loc>
-    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/post/2024/trials-tribulations/</loc>
-    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/categories/content-regulation/</loc>
+    <loc>/categories/content-regulation/</loc>
     <lastmod>2024-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/reishi-mushrooms/</loc>
+    <loc>/tags/reishi-mushrooms/</loc>
     <lastmod>2024-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/youtube/</loc>
+    <loc>/tags/youtube/</loc>
     <lastmod>2024-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/2024/youtubes-reishi-mushroom-ban/</loc>
+    <loc>/post/2024/youtubes-reishi-mushroom-ban/</loc>
     <lastmod>2024-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/anti-androgenic/</loc>
+    <loc>/tags/anti-androgenic/</loc>
     <lastmod>2024-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/dht/</loc>
+    <loc>/tags/dht/</loc>
     <lastmod>2024-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/herbal-remedies/</loc>
+    <loc>/categories/herbal-remedies/</loc>
     <lastmod>2024-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/hormonal-health/</loc>
+    <loc>/tags/hormonal-health/</loc>
     <lastmod>2024-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/reishi-mushroom/</loc>
+    <loc>/tags/reishi-mushroom/</loc>
     <lastmod>2024-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/2024/anti-androgenic-reishi/</loc>
+    <loc>/post/2024/anti-androgenic-reishi/</loc>
     <lastmod>2024-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/testosterone/</loc>
+    <loc>/tags/testosterone/</loc>
     <lastmod>2024-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/decriminalization/</loc>
+    <loc>/tags/decriminalization/</loc>
     <lastmod>2024-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/drug-policy/</loc>
+    <loc>/tags/drug-policy/</loc>
     <lastmod>2024-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/legislation/</loc>
+    <loc>/tags/legislation/</loc>
     <lastmod>2024-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/oregon/</loc>
+    <loc>/tags/oregon/</loc>
     <lastmod>2024-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/policy-reform/</loc>
+    <loc>/categories/policy-reform/</loc>
     <lastmod>2024-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/public-health/</loc>
+    <loc>/tags/public-health/</loc>
     <lastmod>2024-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/magic-quadrant/2024/oregaon-rollback-2024/</loc>
+    <loc>/post/magic-quadrant/2024/oregaon-rollback-2024/</loc>
     <lastmod>2024-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/affiliate-links/</loc>
+    <loc>/tags/affiliate-links/</loc>
     <lastmod>2024-03-02T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/amazon/</loc>
+    <loc>/tags/amazon/</loc>
     <lastmod>2024-03-02T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/docs/</loc>
+    <loc>/docs/</loc>
     <lastmod>2024-03-02T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/2024/buisness-plan-2024-checkin-02/</loc>
+    <loc>/post/2024/buisness-plan-2024-checkin-02/</loc>
     <lastmod>2024-03-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/colorado/</loc>
+    <loc>/tags/colorado/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/magic-quadrant/2024/amature-colorado-grow-p2/</loc>
+    <loc>/post/magic-quadrant/2024/amature-colorado-grow-p2/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/golden-teacher/</loc>
+    <loc>/tags/legalization/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/legalization/</loc>
-    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/categories/magic-quadrant/</loc>
-    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/psilocybin/</loc>
-    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/psychedelic/</loc>
-    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/magic/</loc>
+    <loc>/tags/magic/</loc>
     <lastmod>2024-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/magic-quadrant/2024/oregon-psilocybin-2024/</loc>
+    <loc>/post/magic-quadrant/2024/oregon-psilocybin-2024/</loc>
     <lastmod>2024-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/magic-quadrant/2024/amature-colorado-grow/</loc>
+    <loc>/post/magic-quadrant/2024/amature-colorado-grow/</loc>
     <lastmod>2024-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/culinary-adventures/</loc>
+    <loc>/tags/culinary-adventures/</loc>
     <lastmod>2024-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/culinary-experiments/</loc>
+    <loc>/categories/culinary-experiments/</loc>
     <lastmod>2024-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/2024/pioppino-grow-2024/</loc>
+    <loc>/post/2024/pioppino-grow-2024/</loc>
     <lastmod>2024-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/home-gardening/</loc>
+    <loc>/tags/home-gardening/</loc>
     <lastmod>2024-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/homegrown-delights/</loc>
+    <loc>/categories/homegrown-delights/</loc>
     <lastmod>2024-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/pioppino/</loc>
+    <loc>/tags/pioppino/</loc>
     <lastmod>2024-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/beginner-guide/</loc>
+    <loc>/tags/beginner-guide/</loc>
     <lastmod>2024-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/2024/beginners-guide-part1/</loc>
+    <loc>/post/2024/beginners-guide-part1/</loc>
     <lastmod>2024-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/beginners/</loc>
+    <loc>/categories/beginners/</loc>
     <lastmod>2024-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/diy-mushroom-growing/</loc>
+    <loc>/tags/diy-mushroom-growing/</loc>
     <lastmod>2024-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/home-mushroom-cultivation/</loc>
+    <loc>/tags/home-mushroom-cultivation/</loc>
     <lastmod>2024-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/cooking/</loc>
+    <loc>/categories/cooking/</loc>
     <lastmod>2024-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/pink-oyster/</loc>
+    <loc>/tags/pink-oyster/</loc>
     <lastmod>2024-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/2024/pink-oyster-maple-bacon/</loc>
+    <loc>/post/2024/pink-oyster-maple-bacon/</loc>
     <lastmod>2024-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/2024/buisness-plan-2024/</loc>
+    <loc>/post/2024/buisness-plan-2024/</loc>
     <lastmod>2024-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/magic-quadrant/2024/colorado-psilocybin/</loc>
+    <loc>/post/magic-quadrant/2024/colorado-psilocybin/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/diy/</loc>
+    <loc>/categories/diy/</loc>
     <lastmod>2024-01-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/2024/agar-ketchup-cups-copy/</loc>
+    <loc>/post/2024/agar-ketchup-cups-copy/</loc>
     <lastmod>2024-01-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/2024/shiitake-grow-2024/</loc>
+    <loc>/post/2024/shiitake-grow-2024/</loc>
     <lastmod>2024-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/food/</loc>
+    <loc>/tags/food/</loc>
     <lastmod>2024-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/grows/</loc>
+    <loc>/categories/grows/</loc>
     <lastmod>2024-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/shiitake/</loc>
+    <loc>/tags/shiitake/</loc>
     <lastmod>2024-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/education/</loc>
+    <loc>/categories/education/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/2024/understanding-mycelium/</loc>
+    <loc>/post/2024/understanding-mycelium/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/2024/rh223-cvg/</loc>
+    <loc>/post/2024/rh223-cvg/</loc>
     <lastmod>2024-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/organic-gardening/</loc>
+    <loc>/tags/organic-gardening/</loc>
     <lastmod>2024-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/substrate/</loc>
+    <loc>/tags/substrate/</loc>
     <lastmod>2024-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/2024/buying-coco-coir-blocks-blocks/</loc>
+    <loc>/post/2024/buying-coco-coir-blocks-blocks/</loc>
     <lastmod>2024-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/midwestgrowkits/</loc>
+    <loc>/tags/midwestgrowkits/</loc>
     <lastmod>2024-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/getting-started/</loc>
+    <loc>/tags/getting-started/</loc>
     <lastmod>2024-01-09T14:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/lions-mane/</loc>
+    <loc>/tags/lions-mane/</loc>
     <lastmod>2024-01-09T14:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/mushrooms/</loc>
+    <loc>/tags/mushrooms/</loc>
     <lastmod>2024-01-09T14:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/northspore/</loc>
+    <loc>/tags/northspore/</loc>
     <lastmod>2024-01-09T14:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/2024/northspore-lions-mane-kit/</loc>
+    <loc>/post/2024/northspore-lions-mane-kit/</loc>
     <lastmod>2024-01-09T14:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/reviews/</loc>
+    <loc>/categories/reviews/</loc>
     <lastmod>2024-01-09T14:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/tools/</loc>
+    <loc>/tags/tools/</loc>
     <lastmod>2024-01-09T14:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/2024/uvc-handheld-lights/</loc>
+    <loc>/post/2024/uvc-handheld-lights/</loc>
     <lastmod>2024-01-09T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/2024/mycolabs-growers-select-monotub/</loc>
+    <loc>/post/2024/mycolabs-growers-select-monotub/</loc>
     <lastmod>2024-01-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/reviews/</loc>
+    <loc>/tags/reviews/</loc>
     <lastmod>2024-01-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/2024/mwgk-hydroponichumidifier-hydroton-updated/</loc>
+    <loc>/post/2024/mwgk-hydroponichumidifier-hydroton-updated/</loc>
     <lastmod>2024-01-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/updates/</loc>
+    <loc>/tags/updates/</loc>
     <lastmod>2024-01-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/2024/boomroomii-prerelease/</loc>
+    <loc>/post/2024/boomroomii-prerelease/</loc>
     <lastmod>2024-01-07T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/2024/mwgk-hydroponichumidifier-hydroton/</loc>
+    <loc>/post/2024/mwgk-hydroponichumidifier-hydroton/</loc>
     <lastmod>2024-01-07T02:57:38-06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/2024/ecosphere3-base/</loc>
+    <loc>/post/2024/ecosphere3-base/</loc>
     <lastmod>2024-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/atrium/</loc>
+    <loc>/tags/atrium/</loc>
     <lastmod>2024-01-05T22:57:38-06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/2024/mushroom-atrium-project/</loc>
+    <loc>/post/2024/mushroom-atrium-project/</loc>
     <lastmod>2024-01-05T22:57:38-06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/projects/</loc>
+    <loc>/categories/projects/</loc>
     <lastmod>2024-01-05T22:57:38-06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/page/about/</loc>
+    <loc>/page/about/</loc>
     <lastmod>2024-01-04T19:04:39-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/page/</loc>
+    <loc>/page/</loc>
     <lastmod>2024-01-04T19:04:39-05:00</lastmod>
   </url>
 </urlset>

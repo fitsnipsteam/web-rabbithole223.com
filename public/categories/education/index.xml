@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Education on Rabbit Hole 223</title>
-    <link>//localhost:1313/categories/education/</link>
+    <link>/categories/education/</link>
     <description>Recent content in Education on Rabbit Hole 223</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/education/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/education/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understanding Mycelium: The Hidden Power Beneath Our Feet</title>
-      <link>//localhost:1313/post/2024/understanding-mycelium/</link>
+      <link>/post/2024/understanding-mycelium/</link>
       <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/2024/understanding-mycelium/</guid>
-      <description>Introduction Imagine a world beneath our feet, intricate and vital, yet unseen. This is the world of mycelium, a fundamental component of our ecosystems. Often overlooked, mycelium is a key player in nature&amp;rsquo;s cycle. Let&amp;rsquo;s explore this fascinating network that lies under the soil.&#xA;What is Mycelium? Mycelium is essentially the foundation of the fungi kingdom, much like roots are to plants. These thread-like structures, known as hyphae, weave together to form a complex and expansive web.</description>
+      <guid>/post/2024/understanding-mycelium/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;Imagine a world beneath our feet, intricate and vital, yet unseen. This is the world of mycelium, a fundamental component of our ecosystems. Often overlooked, mycelium is a key player in nature&amp;rsquo;s cycle. Let&amp;rsquo;s explore this fascinating network that lies under the soil.&lt;/p&gt;&#xA;&lt;h1 id=&#34;what-is-mycelium&#34;&gt;What is Mycelium?&lt;/h1&gt;&#xA;&lt;p&gt;Mycelium is essentially the foundation of the fungi kingdom, much like roots are to plants. These thread-like structures, known as &lt;a href=&#34;https://en.wikipedia.org/wiki/Hypha&#34;&gt;hyphae&lt;/a&gt;, weave together to form a complex and expansive web. Each hypha is incredibly thin, yet when combined, they create a vast network that can span miles.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

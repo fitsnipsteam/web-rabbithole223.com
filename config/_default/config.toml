@@ -1,7 +1,7 @@
 baseurl = "/"
 title = "Rabbit Hole 223"
 languageCode = "en-us"
-paginate = "10" # Number of posts per page
+pagination.pagerSize = "10" # Number of posts per page
 theme = "mainroad"
 enableRobotsTXT = true
 

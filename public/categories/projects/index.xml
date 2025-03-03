@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Rabbit Hole 223</title>
-    <link>//localhost:1313/categories/projects/</link>
+    <link>/categories/projects/</link>
     <description>Recent content in Projects on Rabbit Hole 223</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Jan 2024 22:57:38 -0600</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mushroom Atrium Project</title>
-      <link>//localhost:1313/post/2024/mushroom-atrium-project/</link>
+      <link>/post/2024/mushroom-atrium-project/</link>
       <pubDate>Fri, 05 Jan 2024 22:57:38 -0600</pubDate>
-      <guid>//localhost:1313/post/2024/mushroom-atrium-project/</guid>
-      <description>Introduction A simple Mushroom Atrium I saw on youtube and am trying to reproduce.&#xA;Intro Video Supplies List Kitchen Dish Rack $14.00 https://share.temu.com/gxinTM5kp6A&#xA;DC5V WS2812B 5m/Roll 60/m Black/White PCB IP65 $6 https://a.aliexpress.com/_mMrDBze</description>
+      <guid>/post/2024/mushroom-atrium-project/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;A simple Mushroom Atrium I saw on youtube and am trying to reproduce.&lt;/p&gt;&#xA;&lt;h3 id=&#34;intro-video&#34;&gt;Intro Video&lt;/h3&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/wtLj63XPd3A?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;h3 id=&#34;supplies-list&#34;&gt;Supplies List&lt;/h3&gt;&#xA;&lt;p&gt;Kitchen Dish Rack $14.00&#xA;&lt;a href=&#34;https://share.temu.com/gxinTM5kp6A&#34;&gt;https://share.temu.com/gxinTM5kp6A&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;DC5V WS2812B 5m/Roll 60/m Black/White PCB IP65 $6&#xA;&lt;a href=&#34;https://a.aliexpress.com/_mMrDBze&#34;&gt;https://a.aliexpress.com/_mMrDBze&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
