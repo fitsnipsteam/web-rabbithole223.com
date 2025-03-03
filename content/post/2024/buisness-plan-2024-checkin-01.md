@@ -24,7 +24,7 @@ thumbnail: "https://static.rabbithole223.com/images/2024/rh223-making-money-01.j
 
 **SEO Strategy:**
 - Keyword optimization for mushroom-related topics
- - The use of [Tubebuddy](https://www.tubebuddy.com/pricing?a=RABBITHOLE223) has been worderful for this, worth the price I am paying.
+ - The use of [Tubebuddy](https://www.tubebuddy.com/pricing?a=RABBITHOLE223) has been wonderful for this, worth the price I am paying.
 
 **Current Revenue Streams** 
 - [Amazon Affiliate Product Links](https://amzn.to/42P7lYg): $0.00
