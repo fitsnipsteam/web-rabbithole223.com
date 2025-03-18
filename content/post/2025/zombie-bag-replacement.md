@@ -5,6 +5,7 @@ categories: ["Reviews"]
 tags: ["Mushroom Cultivation", "Grow Bags", "Zombie MyCo", "Review"]
 thumbnail: "https://static.rabbithole223.com/images/2025/512-zombie-mushroom.jpg"
 summary: "After initial mushroom grow bags from Zombie MyCo failed to colonize, customer support promptly sent replacements, proving their bag guarantee is genuine and reliable."
+author: "NothingHere"
 ---
 
 
