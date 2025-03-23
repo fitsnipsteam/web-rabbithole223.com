@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fungi on Rabbit Hole 223</title>
+    <link>/tags/fungi/</link>
+    <description>Recent content in Fungi on Rabbit Hole 223</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/fungi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Critical Relationship Between Mycelium Growth and Temperature</title>
+      <link>/post/2025/growth-and-temperature/</link>
+      <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/post/2025/growth-and-temperature/</guid>
+      <description>&lt;p&gt;Temperature serves as the primary regulator of mycelium development in fungi cultivation. This relationship between thermal conditions and fungal growth represents one of the most significant yet frequently underestimated variables affecting cultivation success. My experiences with temperature management have demonstrated that even minor fluctuations can dramatically alter colonization rates, yield potential, and contamination risks.&lt;/p&gt;&#xA;&lt;h2 id=&#34;temperature-thresholds-and-metabolic-functions&#34;&gt;Temperature Thresholds and Metabolic Functions&lt;/h2&gt;&#xA;&lt;p&gt;Mycelium growth demonstrates distinct temperature thresholds that directly influence metabolic function. Most cubensis varieties require temperatures between 75-80°F (24-27°C) for optimal colonization. Below 70°F (21°C), enzymatic activity diminishes considerably, causing growth to decelerate or halt entirely. Temperatures exceeding 86°F (30°C) create conditions that favor bacterial proliferation, often resulting in contamination that renders substrates unusable.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
