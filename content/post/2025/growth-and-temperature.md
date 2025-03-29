@@ -4,6 +4,7 @@ date: 2025-03-22
 categories: ["Mycology", "Cultivation"]
 tags: ["mycelium", "temperature", "fungi", "cultivation"]
 draft: false
+thumbnail: "https://static.rabbithole223.com/images/2025/512-cooking-mushroom.jpg"
 ---
 
 Temperature serves as the primary regulator of mycelium development in fungi cultivation. This relationship between thermal conditions and fungal growth represents one of the most significant yet frequently underestimated variables affecting cultivation success. My experiences with temperature management have demonstrated that even minor fluctuations can dramatically alter colonization rates, yield potential, and contamination risks.
