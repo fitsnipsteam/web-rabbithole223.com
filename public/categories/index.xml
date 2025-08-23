@@ -6,8 +6,15 @@
     <description>Recent content in Categories on Rabbit Hole 223</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beginners</title>
+      <link>/categories/beginners/</link>
+      <pubDate>Sat, 23 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/categories/beginners/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Cultivation</title>
       <link>/categories/cultivation/</link>
@@ -104,13 +111,6 @@
       <link>/categories/homegrown-delights/</link>
       <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
       <guid>/categories/homegrown-delights/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Beginners</title>
-      <link>/categories/beginners/</link>
-      <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/categories/beginners/</guid>
       <description></description>
     </item>
     <item>
