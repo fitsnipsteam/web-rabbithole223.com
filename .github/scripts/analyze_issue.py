@@ -314,14 +314,17 @@ def create_branch_and_pr(issue_number, analysis, issue_title):
     pr_body = analysis.get('pr_body', "See issue for details") + f"\n\nCloses #{issue_number}"
 
     try:
-        subprocess.run([
+        result = subprocess.run([
             'gh', 'pr', 'create',
             '--base', 'stage',
             '--head', branch_name,
             '--title', pr_title,
             '--body', pr_body
-        ], check=True, capture_output=True)
-        print(f"Created PR from {branch_name} to stage")
+        ], capture_output=True, text=True)
+        if result.returncode != 0:
+            print(f"Error creating PR: {result.stderr}")
+        else:
+            print(f"Created PR from {branch_name} to stage")
     except subprocess.CalledProcessError as e:
         print(f"Error creating PR: {e}")
 
