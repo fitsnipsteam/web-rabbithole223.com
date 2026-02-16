@@ -3,7 +3,7 @@ title: "Grow Tents in the Home: Risks and Mitigation Strategies"
 date: 2026-02-16
 categories: ["Beginners Guide"]
 tags: ["grow-tent", "home-cultivation", "risk-management"]
-draft: false
+draft: true
 thumbnail: "https://static.rabbithole223.com/images/2026/grow-tent-home.jpg"
 ---
 
