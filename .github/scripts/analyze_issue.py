@@ -298,7 +298,10 @@ def create_branch_and_pr(issue_number, analysis, issue_title):
 
     # Push branch
     try:
-        subprocess.run(['git', 'push', '-u', 'origin', branch_name], check=True, capture_output=True)
+        result = subprocess.run(['git', 'push', '-u', 'origin', branch_name], capture_output=True, text=True)
+        if result.returncode != 0:
+            print(f"Error pushing branch: {result.stderr}")
+            return
         print(f"Pushed branch {branch_name}")
     except subprocess.CalledProcessError as e:
         print(f"Error pushing branch: {e}")
