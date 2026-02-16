@@ -29,7 +29,7 @@ def get_github_headers():
 
 def fetch_issue_details(issue_number):
     """Fetch full issue details including comments from GitHub API"""
-    owner, repo = 'rabbithole223', 'web-rabbithole223.com'
+    owner, repo = 'fitsnips', 'web-rabbithole223.com'
 
     # Fetch issue details
     issue_url = f'https://api.github.com/repos/{owner}/{repo}/issues/{issue_number}'
@@ -200,7 +200,7 @@ Please analyze whether there is enough information to create or update a blog po
 
 def add_label_and_comment(issue_number, missing_details):
     """Add 'needs-more-info' label and post a comment to the issue"""
-    owner, repo = 'rabbithole223', 'web-rabbithole223.com'
+    owner, repo = 'fitsnips', 'web-rabbithole223.com'
 
     # Add label
     label_url = f'https://api.github.com/repos/{owner}/{repo}/issues/{issue_number}/labels'
@@ -234,7 +234,7 @@ def add_label_and_comment(issue_number, missing_details):
 
 def create_branch_and_pr(issue_number, analysis, issue_title):
     """Create a branch, write files, commit, push, and open a PR"""
-    owner, repo = 'rabbithole223', 'web-rabbithole223.com'
+    owner, repo = 'fitsnips', 'web-rabbithole223.com'
 
     # Create branch name from issue number and title slug
     slug = re.sub(r'[^a-z0-9]+', '-', issue_title.lower()).strip('-')[:30]
