@@ -2,7 +2,7 @@
 
 This GitHub Action automatically analyzes new GitHub issues and either:
 - **Requests more information** if details are insufficient
-- **Generates a blog post** and opens a PR to `staging` if ready
+- **Generates a blog post** and opens a PR to `stage` if ready
 
 ## Setup
 
@@ -56,7 +56,7 @@ The action will:
 
 5. **Take Action**
    - **needs-more-info**: Adds label + posts comment listing what's needed
-   - **implement**: Creates branch → writes files → commits → pushes → opens PR to `staging`
+   - **implement**: Creates branch → writes files → commits → pushes → opens PR to `stage`
 
 ## Blog Post Structure
 
@@ -128,7 +128,7 @@ Target audience: Beginner to intermediate growers
 Style: Practical, experience-based advice (like "Let the alcohol sit for 30-60 seconds")
 ```
 
-**Result:** Action creates PR to `staging` with:
+**Result:** Action creates PR to `stage` with:
 - New file in `content/post/2026/`
 - Complete YAML front matter
 - Blog post content
@@ -138,9 +138,9 @@ Style: Practical, experience-based advice (like "Let the alcohol sit for 30-60 s
 
 1. **Review** the PR for accuracy and completeness
 2. **Request Changes** if needed (commenter can reply with revisions)
-3. **Merge** to `staging` → Amplify preview builds automatically
-4. **Verify** in staging preview
-5. **Merge** `staging` → `main` when ready to publish
+3. **Merge** to `stage` → Amplify preview builds automatically
+4. **Verify** in stage preview
+5. **Merge** `stage` → `main` when ready to publish
 
 ## Skipped Scenarios
 

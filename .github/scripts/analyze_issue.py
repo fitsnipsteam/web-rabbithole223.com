@@ -245,10 +245,10 @@ def create_branch_and_pr(issue_number, analysis, issue_title):
         print(f"Branch {branch_name} already exists, skipping PR creation")
         return
 
-    # Create and checkout new branch from staging
+    # Create and checkout new branch from stage
     try:
-        subprocess.run(['git', 'fetch', 'origin', 'staging'], check=True, capture_output=True)
-        subprocess.run(['git', 'checkout', '-b', branch_name, 'origin/staging'], check=True, capture_output=True)
+        subprocess.run(['git', 'fetch', 'origin', 'stage'], check=True, capture_output=True)
+        subprocess.run(['git', 'checkout', '-b', branch_name, 'origin/stage'], check=True, capture_output=True)
     except subprocess.CalledProcessError as e:
         print(f"Error creating branch: {e}")
         return
@@ -300,7 +300,7 @@ Closes #{issue_number}"""
     try:
         subprocess.run([
             'gh', 'pr', 'create',
-            '--base', 'staging',
+            '--base', 'stage',
             '--head', branch_name,
             '--title', pr_title,
             '--body', pr_body
