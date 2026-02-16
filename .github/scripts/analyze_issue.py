@@ -309,23 +309,24 @@ def create_branch_and_pr(issue_number, analysis, issue_title):
         print(f"Error pushing branch: {e}")
         return
 
-    # Create PR using gh CLI
+    # Create PR using GitHub API (direct approach)
     pr_title = analysis.get('pr_title', f"Content from issue #{issue_number}")
     pr_body = analysis.get('pr_body', "See issue for details") + f"\n\nCloses #{issue_number}"
 
     try:
-        result = subprocess.run([
-            'gh', 'pr', 'create',
-            '--base', 'stage',
-            '--head', branch_name,
-            '--title', pr_title,
-            '--body', pr_body
-        ], capture_output=True, text=True)
-        if result.returncode != 0:
-            print(f"Error creating PR: {result.stderr}")
-        else:
-            print(f"Created PR from {branch_name} to stage")
-    except subprocess.CalledProcessError as e:
+        pr_url = f'https://api.github.com/repos/{owner}/{repo}/pulls'
+        pr_data = json.dumps({
+            'title': pr_title,
+            'body': pr_body,
+            'head': branch_name,
+            'base': 'stage'
+        }).encode()
+
+        req = urllib.request.Request(pr_url, data=pr_data, headers=get_github_headers(), method='POST')
+        with urllib.request.urlopen(req) as response:
+            pr_result = json.loads(response.read().decode())
+            print(f"Created PR #{pr_result['number']}: {branch_name} → stage")
+    except urllib.error.HTTPError as e:
         print(f"Error creating PR: {e}")
 
 
