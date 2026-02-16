@@ -8,6 +8,11 @@ labels: blog-post
 ## Post Title
 *What should the blog post be called?*
 
+## Author
+*Who is writing this? (Default: rabbithole223)*
+- [ ] rabbithole223 (default)
+- [ ] Other:
+
 ## Topic & Summary
 *What should this post cover? Be specific about the main topic and key takeaways.*
 
