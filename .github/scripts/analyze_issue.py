@@ -126,7 +126,7 @@ def call_claude_api(issue_details, model):
 
 The site structure:
 - Content lives in `content/post/YYYY/` as Markdown files with YAML front matter
-- YAML fields: title, description, date, draft, categories, tags, thumbnail
+- YAML fields: title, description, date, draft, categories, tags, thumbnail, author
 - Images are hosted on CloudFront CDN: https://static.rabbithole223.com/images/
 - Categories are things like "Beginners", "Advanced", "Cultivation Techniques", etc.
 - Tags are specific topics like "home mushroom cultivation", "contamination prevention", etc.
@@ -152,9 +152,21 @@ Return your analysis as a JSON object:
 If the issue provides a title/topic and any guidance, create the post. Use placeholder "<thumbnail_url>" for images.
 Only ask for more info if you truly cannot understand what the post should be about."""
 
+    # Extract author from issue body if present (markdown checkbox format)
+    author = "rabbithole223"  # default
+    if issue['body']:
+        if "- [x] rabbithole223" in issue['body'] or "- [x] rabbithole223 (default)" in issue['body']:
+            author = "rabbithole223"
+        else:
+            author_match = re.search(r'## Author\s*.*?- \[x\]\s*([^\n]+)', issue['body'], re.DOTALL)
+            if author_match:
+                author = author_match.group(1).strip()
+
     user_prompt = f"""GitHub Issue Analysis Request
 
 Title: {issue['title']}
+
+Author: {author}
 
 Body:
 {issue['body'] or 'No description provided'}
@@ -163,7 +175,7 @@ Labels: {', '.join([l['name'] for l in issue['labels']]) or 'None'}
 
 Comments/Discussion:{comment_text or ' No comments yet'}
 
-Please analyze whether there is enough information to create or update a blog post. If not, list specific details needed."""
+Create a blog post from this request. Include author in YAML front matter if provided."""
 
     client = anthropic.Anthropic(api_key=os.environ.get('ANTHROPIC_API_KEY'))
 
