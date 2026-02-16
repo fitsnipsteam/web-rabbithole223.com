@@ -315,8 +315,8 @@ def create_branch_and_pr(issue_number, analysis, issue_title):
             '--head', branch_name,
             '--title', pr_title,
             '--body', pr_body
-        ], check=True, capture_output=True, env={**os.environ, 'GH_TOKEN': os.environ.get('GITHUB_TOKEN')})
-        print(f"Created PR from {branch_name} to staging")
+        ], check=True, capture_output=True)
+        print(f"Created PR from {branch_name} to stage")
     except subprocess.CalledProcessError as e:
         print(f"Error creating PR: {e}")
 
