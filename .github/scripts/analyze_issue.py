@@ -286,12 +286,9 @@ def create_branch_and_pr(issue_number, analysis, issue_title):
     for file_path in files_written:
         subprocess.run(['git', 'add', file_path], check=True, capture_output=True)
 
-    # Commit
-    commit_message = f"""Add content from GitHub issue #{issue_number}
-
-{analysis.get('pr_body', 'See PR for details')}
-
-Closes #{issue_number}"""
+    # Commit (keep message simple to avoid subprocess escaping issues)
+    pr_title = analysis.get('pr_title', f'Content from issue #{issue_number}')
+    commit_message = f"Add blog post: {pr_title}\n\nCloses #{issue_number}"
 
     subprocess.run(['git', 'commit', '-m', commit_message], check=True, capture_output=True)
 
