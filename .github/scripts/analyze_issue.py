@@ -250,10 +250,10 @@ def create_branch_and_pr(issue_number, analysis, issue_title):
     slug = re.sub(r'[^a-z0-9]+', '-', issue_title.lower()).strip('-')[:30]
     branch_name = f'issue-{issue_number}-{slug}'
 
-    # Check if branch already exists
+    # Check if branch already exists - delete it first if it does
     if branch_exists(branch_name):
-        print(f"Branch {branch_name} already exists, skipping PR creation")
-        return
+        print(f"Branch {branch_name} already exists, deleting it")
+        subprocess.run(['git', 'push', 'origin', '--delete', branch_name], capture_output=True)
 
     # Configure git
     subprocess.run(['git', 'config', 'user.email', 'action@github.com'], check=True, capture_output=True)
