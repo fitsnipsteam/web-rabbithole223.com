@@ -255,6 +255,10 @@ def create_branch_and_pr(issue_number, analysis, issue_title):
         print(f"Branch {branch_name} already exists, skipping PR creation")
         return
 
+    # Configure git
+    subprocess.run(['git', 'config', 'user.email', 'action@github.com'], check=True, capture_output=True)
+    subprocess.run(['git', 'config', 'user.name', 'GitHub Action'], check=True, capture_output=True)
+
     # Create and checkout new branch from stage
     try:
         subprocess.run(['git', 'fetch', 'origin', 'stage'], check=True, capture_output=True)
