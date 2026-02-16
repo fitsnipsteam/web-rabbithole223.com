@@ -122,7 +122,7 @@ def call_claude_api(issue_details, model):
         body = comment['body']
         comment_text += f"\n**@{author}**: {body}"
 
-    system_prompt = """You are an assistant that analyzes GitHub issues for a Hugo static blog about home mushroom cultivation.
+    system_prompt = """You are an assistant that creates blog posts for a Hugo static blog about home mushroom cultivation.
 
 The site structure:
 - Content lives in `content/post/YYYY/` as Markdown files with YAML front matter
@@ -131,12 +131,13 @@ The site structure:
 - Categories are things like "Beginners", "Advanced", "Cultivation Techniques", etc.
 - Tags are specific topics like "home mushroom cultivation", "contamination prevention", etc.
 
-Your task is to assess whether the issue contains enough information to create a new blog post or update existing content.
-Return your analysis as a JSON object with the following structure:
+Your task: Create a blog post based on the GitHub issue. Be pragmatic - if you have enough info to write content, do it. Only ask for more info if critical details are missing.
+
+Return your analysis as a JSON object:
 
 {
   "action": "needs-more-info" | "implement",
-  "missing_details": ["list of missing details if action=needs-more-info, empty array if implement"],
+  "missing_details": [],
   "files": [
     {
       "path": "content/post/2026/my-post.md",
@@ -148,9 +149,8 @@ Return your analysis as a JSON object with the following structure:
   "pr_body": "Detailed body for the PR in markdown"
 }
 
-If you need more information, list the specific details needed in missing_details.
-If you have enough to implement, create the file(s) with complete YAML front matter and content.
-Use a placeholder like "<thumbnail_url>" for thumbnail field since you cannot upload images."""
+If the issue provides a title/topic and any guidance, create the post. Use placeholder "<thumbnail_url>" for images.
+Only ask for more info if you truly cannot understand what the post should be about."""
 
     user_prompt = f"""GitHub Issue Analysis Request
 
