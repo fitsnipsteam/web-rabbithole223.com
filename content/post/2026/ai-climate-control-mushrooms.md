@@ -31,7 +31,7 @@ AI systems work differently. They don't just react. A decent setup uses:
 - Pattern recognition - the system learns that your space naturally drops humidity around 3 PM because of afternoon temperature spikes. So it pre-adjusts before it becomes a problem.
 - Micro-adjustments - instead of your humidifier blasting on and off like a freight train, AI gradually increases misting cycles or exhaust fans.
 
-Companies like Inkbird and some of the newer home automation setups now integrate machine learning. They learn your specific space's thermal mass, your substrate's water retention, seasonal changes. Over time, they make better decisions than you do manually.
+Companies like AC Infinity [AC Infinity AI Grow System Compact]https://amzn.to/4tMMqST and some of the newer home automation setups now integrate machine learning. They learn your specific space's thermal mass, your substrate's water retention, seasonal changes. Over time, they make better decisions than you do manually.
 
 ## Where This Actually Helps
 
@@ -43,7 +43,7 @@ One thing to note: these systems cost real money. Entry-level AI-integrated cont
 
 ## The Practical Stuff
 
-If you want to try this route, start small. A few sensor nodes, a hub that learns your space. Inkbird has consumer models. There's also DIY options using Arduino and open-source climate monitoring if you're comfortable with that and have the time.
+If you want to try this route, start small. A few sensor nodes, a hub that learns your space. There's also DIY options using Arduino and open-source climate monitoring if you're comfortable with that and have the time. I tried this route and let me tell you its not worth the time. By the time you get a all the parts put it all together and manage the software you lost so many hours its just not for most people. Its like 3d printing, once the Bambu Labs machines came out I spend almost zero time fixing my printer, I print and enjoy it. I used to think that part of 3d printing was managing your printer ever time you wanted to print. I dont want to do that anymore and thats why I think the AC Infinity setup is key.
 
 The best approach? Run it in parallel with manual checks for the first month. Watch how it handles your space. Learn its patterns.
 
