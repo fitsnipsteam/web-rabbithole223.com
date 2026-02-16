@@ -10,14 +10,13 @@ enableRobotsTXT = true
 [services.googleAnalytics]
   ID = "" # Enable Google Analytics by entering your tracking ID
 
-[Params]
-  description = "Knowledge by Errors" # Site description. Used in meta description
-
-[Params.Author] # Used in authorbox
+[Author] # Used in authorbox
   name = "RH223"
   bio = "RH233's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
   avatar = "https://static.rabbithole223.com/images/author-rh223.png"
 
+[Params]
+  description = "Knowledge by Errors" # Site description. Used in meta description
   copyright = "Rabithole223" # Footer copyright holder, otherwise will use site title
   opengraph = true # Enable OpenGraph if true
   schema = true # Enable Schema

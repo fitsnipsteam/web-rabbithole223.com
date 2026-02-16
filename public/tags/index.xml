@@ -6,43 +6,8 @@
     <description>Recent content in Tags on Rabbit Hole 223</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>AI</title>
-      <link>/tags/ai/</link>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>/tags/ai/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Automation</title>
-      <link>/tags/automation/</link>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>/tags/automation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Climate Control</title>
-      <link>/tags/climate-control/</link>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>/tags/climate-control/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Home Mushroom Cultivation</title>
-      <link>/tags/home-mushroom-cultivation/</link>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>/tags/home-mushroom-cultivation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Technology</title>
-      <link>/tags/technology/</link>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>/tags/technology/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Beginner Guide</title>
       <link>/tags/beginner-guide/</link>
@@ -55,6 +20,13 @@
       <link>/tags/diy-mushroom-growing/</link>
       <pubDate>Sat, 23 Aug 2025 00:00:00 +0000</pubDate>
       <guid>/tags/diy-mushroom-growing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Home Mushroom Cultivation</title>
+      <link>/tags/home-mushroom-cultivation/</link>
+      <pubDate>Sat, 23 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/home-mushroom-cultivation/</guid>
       <description></description>
     </item>
     <item>
@@ -212,7 +184,7 @@
       <description></description>
     </item>
     <item>
-      <title>DIY</title>
+      <title>Diy</title>
       <link>/tags/diy/</link>
       <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
       <guid>/tags/diy/</guid>
