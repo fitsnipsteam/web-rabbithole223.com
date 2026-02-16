@@ -131,26 +131,24 @@ The site structure:
 - Categories are things like "Beginners", "Advanced", "Cultivation Techniques", etc.
 - Tags are specific topics like "home mushroom cultivation", "contamination prevention", etc.
 
-Your task: Create a blog post based on the GitHub issue. Be pragmatic - if you have enough info to write content, do it. Only ask for more info if critical details are missing.
+Your task: CREATE a blog post from the issue. DO NOT ask for more info unless absolutely critical (like no topic is mentioned).
 
-Return your analysis as a JSON object:
+You have a topic/title = implement. Make reasonable assumptions about content, structure, and tone if details are vague.
 
+Return JSON:
 {
-  "action": "needs-more-info" | "implement",
+  "action": "implement",
   "missing_details": [],
-  "files": [
-    {
-      "path": "content/post/2026/my-post.md",
-      "content": "full file content with YAML front matter",
-      "operation": "create" | "update"
-    }
-  ],
-  "pr_title": "Brief title for the PR",
-  "pr_body": "Detailed body for the PR in markdown"
+  "files": [{
+    "path": "content/post/2026/filename.md",
+    "content": "---\ntitle: ...\n---\n...",
+    "operation": "create"
+  }],
+  "pr_title": "...",
+  "pr_body": "..."
 }
 
-If the issue provides a title/topic and any guidance, create the post. Use placeholder "<thumbnail_url>" for images.
-Only ask for more info if you truly cannot understand what the post should be about."""
+ALWAYS choose "implement" unless the issue is completely empty or nonsensical. Make the post based on what's provided."""
 
     # Extract author from issue body if present (markdown checkbox format)
     author = "rabbithole223"  # default
