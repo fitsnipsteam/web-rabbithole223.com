@@ -11,7 +11,7 @@ tags:
   - automation
   - climate control
   - technology
-thumbnail: https://static.rabbithole223.com/images/ai-climate-control-placeholder.jpg
+thumbnail: https://static.rabbithole223.com/images/ai-climate-control.png
 author: default
 ---
 
