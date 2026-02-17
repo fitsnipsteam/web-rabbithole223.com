@@ -31,7 +31,7 @@ AI systems work differently. They don't just react. A decent setup uses:
 - Pattern recognition - the system learns that your space naturally drops humidity around 3 PM because of afternoon temperature spikes. So it pre-adjusts before it becomes a problem.
 - Micro-adjustments - instead of your humidifier blasting on and off like a freight train, AI gradually increases misting cycles or exhaust fans.
 
-Companies like AC Infinity [AC Infinity AI Grow System Compact]https://amzn.to/4tMMqST and some of the newer home automation setups now integrate machine learning. They learn your specific space's thermal mass, your substrate's water retention, seasonal changes. Over time, they make better decisions than you do manually.
+Companies like AC Infinity [AC Infinity AI Grow System Compact](https://amzn.to/4tMMqST) and some of the newer home automation setups now integrate machine learning. They learn your specific space's thermal mass, your substrate's water retention, seasonal changes. Over time, they make better decisions than you do manually.
 
 ## Where This Actually Helps
 
