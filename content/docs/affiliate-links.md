@@ -90,6 +90,10 @@ thumbnail: "https://static.rabbithole223.com/images/2024/affilate-links-generic.
 
 
 
+## Products I want to try
+  - [AC Infinity Controller AI+ Environmental Controller](https://amzn.to/4qGNyEC)
+
+
 ## Equipment and website maintenance
   - [GoPro HERO8 Black - Waterproof Action Camera with Touch Screen 4K Ultra HD](https://amzn.to/3Tjn4vp)
   - [20W USB C Power Strip, 321 Power Strip with 3 Outlets and USB C](https://amzn.to/49Bd4TY)
