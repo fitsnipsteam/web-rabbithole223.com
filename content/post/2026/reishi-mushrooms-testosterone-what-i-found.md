@@ -4,7 +4,7 @@ description: "Looking into whether Reishi mushrooms mess with testosterone level
 date: 2026-02-20
 draft: false
 categories: ["Education"]
-thumbnail: "https://static.rabbithole223.com/images/2024/rh223-512-reishi-anti-androgen-01.jpg"
+thumbnail: "https://static.rabbithole223.com/images/2026/rh223-512-reishi-anti-androgen-01.jpg"
 tags: ["Reishi mushroom", "testosterone", "DHT", "hormonal health", "home mushroom cultivation"]
 ---
 
