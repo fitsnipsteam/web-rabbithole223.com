@@ -3,9 +3,9 @@ title: "YouTube's Reishi Mushroom Video Ban: A Critical Examination"
 description: "Exploring the controversial ban of a Reishi mushroom video by YouTube, deemed as promoting narcotics, amidst broader issues of content regulation and creator support."
 date: 2024-03-17
 draft: false
-categories: ["Content Regulation"]
+categories: ["Business"]
 thumbnail: "https://static.rabbithole223.com/images/2024/reishi-banned-by-youtube.jpg"
-tags: ["YouTube", "Reishi Mushrooms"]
+tags: ["YouTube", "Reishi Mushrooms", "Content Regulation"]
 ---
 
 ## Reishi Mushrooms: Medicinal, Not Narcotic

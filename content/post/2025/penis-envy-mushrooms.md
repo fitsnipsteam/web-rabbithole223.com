@@ -3,7 +3,7 @@ title: "Penis Envy Mushrooms: Understanding a Potent Psilocybin Variety"
 date: 2025-03-11
 thumbnail: "https://static.rabbithole223.com/images/2025/512-penis-envy.jpg"
 description: "An in-depth look at the history, characteristics, and scientific understanding of Penis Envy mushrooms."
-categories: ["Mycology", "MAGIC-QUADRANT"]
+categories: ["Magic Quadrant"]
 tags: ["psilocybin", "mushrooms", "mycology"]
 ---
 

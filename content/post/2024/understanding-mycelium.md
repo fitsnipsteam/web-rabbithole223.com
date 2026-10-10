@@ -3,8 +3,9 @@ title: "Understanding Mycelium: The Hidden Power Beneath Our Feet"
 description: "Understanding Mycelium: The Hidden Power Beneath Our Feet"
 date: 2024-01-12
 draft: false
-categories: [ "Education" ]
+categories: [ "Mushroom Science" ]
 thumbnail: https://static.rabbithole223.com/images/2024/512-hyphae-01.jpg
+tags: ["education"]
 ---
 
 # Introduction

@@ -3,7 +3,7 @@ title: "Failed Grows, You Must Suck?"
 description: "Struggling with mushroom cultivation? Don’t worry—you’re not alone, and you don’t suck."
 date: 2025-08-23
 draft: false
-categories: ["Beginners"]
+categories: ["Beginner Guides"]
 thumbnail: "https://static.rabbithole223.com/images/2025/512-failed-grow.jpg"
 tags: ["home mushroom cultivation", "beginner guide", "DIY mushroom growing"]
 ---

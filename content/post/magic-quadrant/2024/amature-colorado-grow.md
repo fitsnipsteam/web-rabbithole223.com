@@ -3,7 +3,7 @@ title: "Colorado Amateur Mushroom Grow Part 1"
 description: "A novice, all-in-one grow bag, and a Golden Teacher liquid culture syringe."
 date: 2024-02-15
 draft: false
-categories: ["MAGIC-QUADRANT"]
+categories: ["Magic Quadrant"]
 thumbnail: "https://static.rabbithole223.com/images/2024/512-amature-colorado-grow-01.jpg"
 tags: ["mushroom cultivation", "magic", "psilocybin", "colorado", "legalization", "golden teacher"]
 ---

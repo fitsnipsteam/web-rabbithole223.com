@@ -4,9 +4,9 @@ date: 2024-03-06
 draft: false
 author: "RH223"
 description: "Dive deep into the anti-androgenic properties of Reishi mushrooms and their potential role in hormonal balance, particularly in the conversion of testosterone to DHT."
-categories: ["HERBAL REMEDIES"]
+categories: ["Mushroom Science"]
 thumbnail: "https://static.rabbithole223.com/images/2024/rh223-512-reishi-anti-androgen-01.jpg"
-tags: ["Reishi mushroom", "anti-androgenic", "testosterone", "DHT", "hormonal health"]
+tags: ["Reishi mushroom", "anti-androgenic", "testosterone", "DHT", "hormonal health", "herbal remedies"]
 ---
 
 # Medical Disclaimer

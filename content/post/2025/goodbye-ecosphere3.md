@@ -2,8 +2,8 @@
 title: "Goodbye Ecosphere 3.0"
 date: 2025-03-12
 description: "I replaced my Ecosphere 3.0 with an AC Infinity CLOUDLAB 632 Advanced Grow Tent and never looked back."
-categories: ["Reviews", "Grow Tents"]
-tags: ["mushrooms", "getting started", "midwestgrowkits", "reviews", "mycology", "mushrooms"]
+categories: ["Reviews"]
+tags: ["mushrooms", "getting started", "midwestgrowkits", "reviews", "mycology", "mushrooms", "grow tents"]
 ---
 
 ## Goodbye Ecosphere 3.0  

@@ -3,7 +3,8 @@ title: "Make Agar Agar cups for Amateur Mycologists: A Step-by-Step Guide"
 description: "Make Agar Agar cups for Amateur Mycologists: A Step-by-Step Guide"
 date: 2024-01-17
 draft: false
-categories: ["DIY"]
+categories: ["DIY and Projects"]
+aliases: ["/post/2024/agar-ketchup-cups-copy/"]
 thumbnail: "https://static.rabbithole223.com/images/2024/agar-agar-02.jpg"
 tags: ["mushroom cultivation", "diy"]
 ---

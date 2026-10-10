@@ -3,7 +3,7 @@ title: "Colorado Beginner's Mushroom Cultivation Journey: Part 2"
 description: "Following a beginner's adventure with an all-in-one grow kit and a Golden Teacher spore syringe."
 date: 2024-03-01
 draft: false
-categories: ["MAGIC-QUADRANT"]
+categories: ["Magic Quadrant"]
 thumbnail: "https://static.rabbithole223.com/images/2024/512-amature-colorado-grow-02.jpg"
 tags: ["mushroom cultivation", "psychedelic", "psilocybin", "colorado", "legalization", "golden teacher"]
 ---

@@ -1,8 +1,8 @@
 ---
 title: "The Critical Relationship Between Mycelium Growth and Temperature"
 date: 2025-03-22
-categories: ["Mycology", "Cultivation"]
-tags: ["mycelium", "temperature", "fungi", "cultivation"]
+categories: ["Mushroom Science"]
+tags: ["mycelium", "temperature", "fungi", "cultivation", "mycology"]
 draft: false
 thumbnail: "https://static.rabbithole223.com/images/2025/512-cooking-mushroom.jpg"
 ---

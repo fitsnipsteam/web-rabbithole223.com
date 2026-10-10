@@ -2,6 +2,7 @@
 title: "How Much Does It Cost to Start Growing Mushrooms?"
 date: 2024-06-19
 tags: ["mushroom growing", "cost", "beginners guide"]
+categories: ["Beginner Guides"]
 thumbnail: https://static.rabbithole223.com/images/2024/512-getting-started.jpg
 description: "A detailed guide on the initial costs involved in starting your own mushroom growing setup."
 ---

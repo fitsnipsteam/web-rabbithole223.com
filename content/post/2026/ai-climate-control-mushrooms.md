@@ -4,13 +4,14 @@ description: Learn how artificial intelligence makes it easier to grow mushrooms
 date: 2026-01-15
 draft: false
 categories:
-  - Education
+  - Mushroom Science
 tags:
   - home mushroom cultivation
   - AI
   - automation
   - climate control
   - technology
+  - education
 thumbnail: https://static.rabbithole223.com/images/ai-climate-control.png
 author: default
 ---

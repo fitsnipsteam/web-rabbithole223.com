@@ -3,7 +3,7 @@ title: "Beginner's Guide to Growing Mushrooms at Home Successfully"
 description: "Learn the essentials of home mushroom cultivation and avoid common pitfalls with our beginner-friendly guide. Start your mushroom growing journey with confidence and save money by doing it right from the start."
 date: 2024-01-31
 draft: false
-categories: ["Beginners"]
+categories: ["Beginner Guides"]
 thumbnail: "https://static.rabbithole223.com/images/2024/512-rabbit-stop-sign.jpg"
 tags: ["home mushroom cultivation", "beginner guide", "DIY mushroom growing"]
 ---

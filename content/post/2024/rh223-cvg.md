@@ -3,7 +3,7 @@ title: "Crafting a CVG Substrate for Mushroom Cultivation"
 description: "Crafting a CVG Substrate for Mushroom Cultivation"
 date: 2024-01-11
 draft: false
-categories: [ "DIY" ]
+categories: [ "DIY and Projects" ]
 thumbnail: https://static.rabbithole223.com/images/2024/512-rh223-cvg-01.jpg
 tags: [ "substrate", "mushroom cultivation", "organic gardening"]
 ---
