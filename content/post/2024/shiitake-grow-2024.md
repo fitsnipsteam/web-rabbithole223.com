@@ -2,7 +2,7 @@
 title: "First Shiitake Grow"
 date: 2024-01-13
 draft: false
-categories: ["Grows", "DIY"]
+categories: ["Grow Logs"]
 thumbnail: "https://static.rabbithole223.com/images/2024/512-shiitake-grow-01.jpeg"
 tags: ["mushroom cultivation", "food", "diy", "shiitake"]
 ---

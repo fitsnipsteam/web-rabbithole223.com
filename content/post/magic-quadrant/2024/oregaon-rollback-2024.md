@@ -4,9 +4,9 @@ date: 2024-03-05
 draft: false
 author: "RH223"
 description: "Dive into the complexities of Oregon's attempt to amend its pioneering drug decriminalization law. Explore the legislative journey, key stakeholders' perspectives, and the ongoing debate over the balance between public health and criminal justice."
-categories: ["POLICY REFORM"]
+categories: ["Magic Quadrant"]
 thumbnail: "https://static.rabbithole223.com/images/2024/rh223-512-oregon-reform-01.jpg"
-tags: ["drug policy", "decriminalization", "legislation", "Oregon", "public health"]
+tags: ["drug policy", "decriminalization", "legislation", "Oregon", "public health", "policy reform"]
 ---
 
 # Not Legal Advice

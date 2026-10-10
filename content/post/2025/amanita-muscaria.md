@@ -1,9 +1,9 @@
 ---
 title: "Amanita Muscaria Chocolate Bars: The Legal High or a Gimmick?"
 date: 2025-03-14
-categories: ["Mushrooms", "Psychedelics", "Culture"]
+categories: ["Mushroom Science"]
 thumbnail: "https://static.rabbithole223.com/images/2025/512-amanita-muscaria-nope.jpg"
-tags: ["Amanita muscaria", "mushroom chocolate", "psilocybin", "legal psychedelics"]
+tags: ["Amanita muscaria", "mushroom chocolate", "psilocybin", "legal psychedelics", "mushrooms", "psychedelics", "culture"]
 summary: "Amanita muscaria chocolate bars are popping up in stores as a legal alternative to psilocybin mushrooms. But do they actually work? Here's what you need to know."
 ---
 

@@ -4,7 +4,7 @@ date: 2025-03-02T12:00:00Z
 tags: ["mushroom cultivation", "psychedelic", "psilocybin", "beginners guide", "golden teacher"]
 thumbnail: "https://static.rabbithole223.com/images/2025/512-growing-goldenteachers.jpg"
 description: "A quick and simple guide to growing Golden Teachers, some of the easier mushrooms to grow"
-categories: ["MAGIC-QUADRANT"]
+categories: ["Magic Quadrant"]
 ---
 
 

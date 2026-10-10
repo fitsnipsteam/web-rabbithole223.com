@@ -3,7 +3,7 @@ title: "Psilocybin for Colorado Readers"
 description: "Understanding Colorado's Psychedelic Law: Home Cultivation and Use"
 date: 2024-01-19
 draft: false
-categories: ["MAGIC-QUADRANT"]
+categories: ["Magic Quadrant"]
 thumbnail: "https://static.rabbithole223.com/images/magic-quadrant/2024/colorado-prop-122.png"
 tags: ["mushroom cultivation", "magic", "psilocybin", "colorado", "legalization"]
 ---

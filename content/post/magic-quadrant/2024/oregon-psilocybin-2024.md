@@ -4,7 +4,7 @@ date: 2024-02-16
 draft: false
 author: "RH223"
 description: "Discover the latest developments in Oregon's psilocybin program for 2024. Learn about the financial shifts, service center experiences, and ongoing challenges in the state's pioneering psychedelic therapy initiative."
-categories: ["MAGIC-QUADRANT"]
+categories: ["Magic Quadrant"]
 thumbnail: "https://static.rabbithole223.com/images/2024/rh223-512-oregon-we-sold-out-01.jpg"
 tags: ["mushroom cultivation", "magic", "psilocybin", "oregon", "legalization"]
 ---

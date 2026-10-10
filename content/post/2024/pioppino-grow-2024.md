@@ -2,9 +2,9 @@
 title: "Diving into the World of Pioppino Mushrooms: A Culinary Adventure"
 date: 2024-02-14
 draft: false
-categories: ["Culinary Experiments", "Homegrown Delights"]
+categories: ["Grow Logs"]
 thumbnail: https://static.rabbithole223.com/images/2024/rh223-512-pioppino-harvest01.jpeg
-tags: ["mushroom cultivation", "home gardening", "culinary adventures", "DIY", "pioppino"]
+tags: ["mushroom cultivation", "home gardening", "culinary adventures", "DIY", "pioppino", "culinary experiments", "homegrown delights"]
 ---
 
 {{< youtube mP_jcvbVTP4 >}}
